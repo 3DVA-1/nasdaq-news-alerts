@@ -1,0 +1,120 @@
+name: Nasdaq naujienos el. pastu
+
+on:
+  schedule:
+    - cron: '7 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'news_monitor.py'
+      - 'news_config.json'
+      - 'monitor.py'
+      - 'volume_profile.py'
+      - 'requirements.txt'
+      - 'tests/test_news_monitor.py'
+      - '.github/workflows/nasdaq-news.yml'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Patikrinti saltinius be laisku ir be busenos pakeitimu'
+        type: boolean
+        default: false
+      test_email:
+        description: 'Siusti viena bandomaji naujienu laiska'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nasdaq-news
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Tests
+        if: github.event_name != 'schedule'
+        run: python -m unittest discover -s tests -v
+      - name: Check mail setup without displaying secrets
+        id: mail
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+        run: |
+          if [ -n "$GMAIL_USER" ] && [ -n "$GMAIL_APP_PASSWORD" ] && [ -n "$ALERT_EMAIL" ]; then
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+            echo '::notice::Mail setup is incomplete. Only the public news sources will be checked; no email will be sent.'
+          fi
+      - name: Detect first setup
+        id: initial
+        run: |
+          if [ -f news_state/state.json ]; then
+            echo 'empty=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'empty=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Check news or send explicit test
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+          MAIL_READY: ${{ steps.mail.outputs.ready }}
+          EVENT_NAME: ${{ github.event_name }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          TEST_EMAIL: ${{ inputs.test_email }}
+        run: |
+          if [ "$TEST_EMAIL" = 'true' ] && [ "$DRY_RUN" != 'true' ]; then
+            if [ "$MAIL_READY" != 'true' ]; then
+              echo '::error::Add GMAIL_USER, GMAIL_APP_PASSWORD and ALERT_EMAIL before requesting a test email.'
+              exit 1
+            fi
+            python news_monitor.py --test-email
+          elif [ "$EVENT_NAME" = 'push' ] || [ "$DRY_RUN" = 'true' ] || [ "$MAIL_READY" != 'true' ]; then
+            python news_monitor.py --dry-run
+          else
+            python news_monitor.py --once
+          fi
+      - name: Send one first-setup confirmation
+        if: steps.mail.outputs.ready == 'true' && steps.initial.outputs.empty == 'true' && github.event_name != 'push' && inputs.dry_run != true && inputs.test_email != true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+        run: python news_monitor.py --test-email
+      - name: Persist news progress and pending messages
+        if: always()
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
+        run: |
+          if [ -f news_state/state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- news_state/state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save Nasdaq news monitoring progress'
+              for attempt in 1 2 3 4; do
+                git pull --rebase origin "$TARGET_BRANCH"
+                if git push origin "HEAD:$TARGET_BRANCH"; then
+                  exit 0
+                fi
+                sleep "$((attempt * 2))"
+              done
+              echo 'Failed to persist news progress after four attempts' >&2
+              exit 1
+            fi
+          fi
