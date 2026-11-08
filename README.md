@@ -20,11 +20,11 @@ Visi trys privalomi šios darbo eigos siuntimui. Tikri slaptažodžiai kode nesa
 
 Atskiri [NASDAQ ŽINIOS] laiškai, po vieną kiekvienai atrinktai naujai istorijai: šaltinio antraštė ir trumpa ištrauka originalo kalba, paskelbimo ir aptikimo laikas Lietuvoje, nuoroda ir „Ką tai gali reikšti Nasdaq“ paaiškinimas lietuviškai. Programa neverčia visų antraščių ir neatlieka viso straipsnio individualios analizės.
 
-Tikrinimas numatytas visą parą kas 15 min., 7, 22, 37 ir 52 minutę kiekvieną valandą UTC; paleidimas bei šaltinio paskelbimas gali vėluoti. Naudojami 8 vieši RSS šaltiniai. Naujienos senumo riba 3 val.; per patikrą iki 6 laiškų, kiti lieka eilėje iki galiojimo pabaigos. Pasikartojimai slopinami, tačiau kitaip parašyta tos pačios istorijos versija kartais gali būti atskiras laiškas. Teminis filtras negarantuoja visų reikšmingų naujienų aptikimo.
+Tikrinimas numatytas visą parą kas valandą, 7 minutę kiekvieną valandą UTC; paleidimas bei šaltinio paskelbimas gali vėluoti. Naudojami 8 vieši RSS šaltiniai. Naujienos senumo riba 3 val.; per patikrą iki 6 laiškų, kiti lieka eilėje iki galiojimo pabaigos. Pasikartojimai slopinami, tačiau kitaip parašyta tos pačios istorijos versija kartais gali būti atskiras laiškas. Teminis filtras negarantuoja visų reikšmingų naujienų aptikimo.
 
 Būsena ir laukiančių laiškų eilė laikoma tik šios saugyklos news_state/state.json. Po neaiškaus SMTP ryšio nutrūkimo retais atvejais galimas pakartojimas. Jei naudojama ta pati Gmail paskyra kaip NQ signalams, pašto siuntimo limitai vis dar bendri.
 
-Vieši bus programos kodas, naujienų vykdymo žurnalai ir išsaugoti naujienų įrašai. Slaptų pašto nustatymų reikšmės neviešinamos. Standartinis GitHub Actions vykdytojas viešoje saugykloje yra nemokamas pagal GitHub sąlygas; papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
+Saugykla privati: kodas, žurnalai ir naujienų įrašai prieinami tik leidimus turintiems naudotojams. Slapti pašto nustatymai laikomi Secrets. Privačios saugyklos naudoja bendrą paskyros nemokamo skaičiavimo kvotą. Taupymui pasirinktas tikrinimas kas valandą ir 2 min. vykdymo riba; kiti projektai taip pat gali naudoti šią kvotą. Papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
 
 ## Vietinė patikra
 
