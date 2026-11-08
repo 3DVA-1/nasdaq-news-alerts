@@ -1,0 +1,55 @@
+{
+  "display_timezone": "Europe/Vilnius",
+  "maximum_news_age_seconds": 10800,
+  "maximum_emails_per_run": 6,
+  "feeds": [
+    {
+      "id": "fed_monetary",
+      "name": "Federal Reserve: Monetary Policy",
+      "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+      "category": "fed"
+    },
+    {
+      "id": "fed_speeches",
+      "name": "Federal Reserve: Speeches",
+      "url": "https://www.federalreserve.gov/feeds/speeches.xml",
+      "category": "fed"
+    },
+    {
+      "id": "bea_releases",
+      "name": "BEA: News Releases",
+      "url": "https://apps.bea.gov/rss/rss.xml",
+      "category": "macro"
+    },
+    {
+      "id": "bbc_business",
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "general"
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "general"
+    },
+    {
+      "id": "cnbc_tech",
+      "name": "CNBC Technology",
+      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+      "category": "general"
+    },
+    {
+      "id": "guardian_business",
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/rss",
+      "category": "general"
+    },
+    {
+      "id": "guardian_world",
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "general"
+    }
+  ]
+}
