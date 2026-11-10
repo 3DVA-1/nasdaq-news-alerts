@@ -20,11 +20,11 @@ Visi trys privalomi šios darbo eigos siuntimui. Tikri slaptažodžiai kode nesa
 
 Atskiri [NASDAQ ŽINIOS] laiškai, po vieną kiekvienai atrinktai naujai istorijai: šaltinio antraštė ir trumpa ištrauka originalo kalba, paskelbimo ir aptikimo laikas Lietuvoje, nuoroda ir „Ką tai gali reikšti Nasdaq“ paaiškinimas lietuviškai. Programa neverčia visų antraščių ir neatlieka viso straipsnio individualios analizės.
 
-Tikrinimas numatytas visą parą kas valandą, 7 minutę kiekvieną valandą UTC; paleidimas bei šaltinio paskelbimas gali vėluoti. Naudojami 8 vieši RSS šaltiniai. Naujienos senumo riba 3 val.; per patikrą iki 6 laiškų, kiti lieka eilėje iki galiojimo pabaigos. Pasikartojimai slopinami, tačiau kitaip parašyta tos pačios istorijos versija kartais gali būti atskiras laiškas. Teminis filtras negarantuoja visų reikšmingų naujienų aptikimo.
+Tikrinimas numatytas visą parą kas 30 min., 7 ir 37 minutę kiekvieną valandą UTC; paleidimas bei šaltinio paskelbimas gali vėluoti. Naudojami 8 vieši RSS šaltiniai. Naujienos senumo riba 3 val.; per patikrą iki 6 laiškų, kiti lieka eilėje iki galiojimo pabaigos. Pasikartojimai slopinami, tačiau kitaip parašyta tos pačios istorijos versija kartais gali būti atskiras laiškas. Teminis filtras negarantuoja visų reikšmingų naujienų aptikimo.
 
 Būsena ir laukiančių laiškų eilė laikoma tik šios saugyklos news_state/state.json. Po neaiškaus SMTP ryšio nutrūkimo retais atvejais galimas pakartojimas. Jei naudojama ta pati Gmail paskyra kaip NQ signalams, pašto siuntimo limitai vis dar bendri.
 
-Saugykla vieša: kodas, pakeitimų istorija, GitHub Actions žurnalai ir news_state naujienų įrašai matomi visiems. Slaptos pašto nustatymų reikšmės laikomos GitHub Secrets ir viešai nerodomos. Standartiniai GitHub talpinami vykdytojai viešoms saugykloms nemokami. Tikrinimas lieka kas valandą (cron: `7 * * * *`), o vykdymo riba – 2 min. Papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
+Saugykla vieša: kodas, pakeitimų istorija, GitHub Actions žurnalai ir news_state naujienų įrašai matomi visiems. Slaptos pašto nustatymų reikšmės laikomos GitHub Secrets ir viešai nerodomos. Standartiniai GitHub talpinami vykdytojai viešoms saugykloms nemokami. Tikrinimas numatytas kas 30 min. (cron: `7,37 * * * *`), o vykdymo riba – 2 min. Papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
 
 ## Vietinė patikra
 
