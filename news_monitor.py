@@ -388,7 +388,7 @@ def main(argv=None):
             body = ("Nasdaq naujienų perspėjimai paruošti.\n\n"
                     "Naujienos bus siunčiamos atskirais laiškais su tema [NASDAQ ŽINIOS].\n"
                     "Stebimos FED/palūkanų, JAV ekonomikos, didžiųjų technologijų bendrovių, prekybos ir geopolitinės naujienos.\n"
-                    "Tikrinimo tikslas – maždaug kas 15 min.; šaltinių ir planuoklio vėlavimas galimas.\n"
+                    "Tikrinimo tikslas – maždaug kas valandą; šaltinių ir planuoklio vėlavimas galimas.\n"
                     "Pirmas šaltinio nuskaitymas įsimena jau esančias naujienas jų nesiųsdamas.\n"
                     "Vienai naujienai siunčiamas vienas laiškas. Tai atskira sistema nuo NQ POC signalų.\n"
                     "Antraštės ir šaltinio santraukos pateikiamos originalo kalba; aktualumo paaiškinimas – lietuviškai.\n"
