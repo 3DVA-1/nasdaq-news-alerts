@@ -1,0 +1,988 @@
+{
+  "version": 1,
+  "sources": {
+    "fed_monetary": {
+      "initialized_at": 1794333780.2198317
+    },
+    "fed_speeches": {
+      "initialized_at": 1794333780.2198317
+    },
+    "bea_releases": {
+      "initialized_at": 1794333780.2198317
+    },
+    "bbc_business": {
+      "initialized_at": 1794333780.2198317
+    },
+    "bbc_world": {
+      "initialized_at": 1794333780.2198317
+    },
+    "cnbc_tech": {
+      "initialized_at": 1794333780.2198317
+    },
+    "guardian_business": {
+      "initialized_at": 1794333780.2198317
+    },
+    "guardian_world": {
+      "initialized_at": 1794333780.2198317
+    }
+  },
+  "seen": {
+    "4894bee95ba572c1e18411cd": {
+      "normalized": "federal reserve issues fomc statement",
+      "observed": 1794333780.2198317
+    },
+    "ce388810f32ebc07accaa744": {
+      "normalized": "minutes of the board s discount rate meetings on august 17 september 9 and september 16 2026",
+      "observed": 1794333780.2198317
+    },
+    "525d3105e73809b680340145": {
+      "normalized": "minutes of the federal open market committee september 15 16 2026",
+      "observed": 1794333780.2198317
+    },
+    "f4c2a42176d46d7ca748f604": {
+      "normalized": "federal reserve issues fomc statement",
+      "observed": 1794333780.2198317
+    },
+    "4ae00e991e9b726eb2ea0249": {
+      "normalized": "federal reserve board and federal open market committee release economic projections from the september 15 16 fomc meeting",
+      "observed": 1794333780.2198317
+    },
+    "84ee51b2cf8d920218ff3ac7": {
+      "normalized": "minutes of the board s discount rate meetings on july 20 and july 29 2026",
+      "observed": 1794333780.2198317
+    },
+    "f0cca6af17374444f03130ac": {
+      "normalized": "minutes of the federal open market committee july 28 29 2026",
+      "observed": 1794333780.2198317
+    },
+    "1fb9eb7770f943e942405589": {
+      "normalized": "federal reserve issues fomc statement",
+      "observed": 1794333780.2198317
+    },
+    "e926f17c60f2b9ff82866d9a": {
+      "normalized": "minutes of the board s discount rate meetings on june 8 and june 17 2026",
+      "observed": 1794333780.2198317
+    },
+    "3967db25f6a0cea353650d6f": {
+      "normalized": "federal reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "observed": 1794333780.2198317
+    },
+    "0cb2b98cfbac5eaf4652150e": {
+      "normalized": "minutes of the federal open market committee june 16 17 2026",
+      "observed": 1794333780.2198317
+    },
+    "bc4609fe4deb403461dce5cd": {
+      "normalized": "federal reserve issues fomc statement",
+      "observed": 1794333780.2198317
+    },
+    "2f96c1ca4d49c98a49df0de1": {
+      "normalized": "federal reserve board and federal open market committee release economic projections from the june 16 17 fomc meeting",
+      "observed": 1794333780.2198317
+    },
+    "bb4130043512d2a984adef14": {
+      "normalized": "minutes of the board s discount rate meeting on april 20 and 29 2026",
+      "observed": 1794333780.2198317
+    },
+    "fcf101213ac7e2a388baccf4": {
+      "normalized": "minutes of the federal open market committee april 28 29 2026",
+      "observed": 1794333780.2198317
+    },
+    "969f7006fa623773b771f645": {
+      "normalized": "waller the economic outlook and some thoughts on labor market dynamism",
+      "observed": 1794333780.2198317
+    },
+    "b3552ba6442b28a8162f803d": {
+      "normalized": "bowman supervisory modernization after silicon valley bank",
+      "observed": 1794333780.2198317
+    },
+    "f0bee2c73708212ef55a8576": {
+      "normalized": "waller the signaling value of the summary of economic projections",
+      "observed": 1794333780.2198317
+    },
+    "e250376580f68dd37999c7a2": {
+      "normalized": "bowman modernizing the regulatory and supervisory landscape",
+      "observed": 1794333780.2198317
+    },
+    "f90ab1cf7221b769ce36d535": {
+      "normalized": "bowman modernizing financial regulation initial observations from eslr",
+      "observed": 1794333780.2198317
+    },
+    "f785a6ba52f2247ae770890e": {
+      "normalized": "jefferson the u s economy and monetary policy",
+      "observed": 1794333780.2198317
+    },
+    "88420321465482c0caca4a84": {
+      "normalized": "waller the data version of godzilla versus kong fred takes on ai",
+      "observed": 1794333780.2198317
+    },
+    "cb616694b977d9572ee64f20": {
+      "normalized": "cook the dual mandate in rural america",
+      "observed": 1794333780.2198317
+    },
+    "d0fdfe320cb74fe57f215050": {
+      "normalized": "waller payments in the age of ai agents",
+      "observed": 1794333780.2198317
+    },
+    "1666d81daf9fbf9f3cd4d945": {
+      "normalized": "barr economic conditions and monetary policy",
+      "observed": 1794333780.2198317
+    },
+    "cd095835ce48606e2b3f6543": {
+      "normalized": "bowman opening remarks",
+      "observed": 1794333780.2198317
+    },
+    "bb529cd6868577627b9e1ca5": {
+      "normalized": "cook an update on ai and the economy",
+      "observed": 1794333780.2198317
+    },
+    "9b8483c863424ecfab52fda5": {
+      "normalized": "barr a long term view on the costs of shelter",
+      "observed": 1794333780.2198317
+    },
+    "edcd6f65e31e90adad3d38d1": {
+      "normalized": "jefferson discount window modernization and treasury market functioning",
+      "observed": 1794333780.2198317
+    },
+    "c15f8b7c6b9ba7dc74ce263e": {
+      "normalized": "bowman initial findings from independent review of silicon valley bank",
+      "observed": 1794333780.2198317
+    },
+    "5f7d8328d1a965e14ee5f7d9": {
+      "normalized": "u s international trade in goods and services september 2026",
+      "observed": 1794333780.2198317
+    },
+    "4623d447a7972ee990293828": {
+      "normalized": "gdp advance estimate 3rd quarter 2026",
+      "observed": 1794333780.2198317
+    },
+    "892a95fb89bfc6c71a92ad1a": {
+      "normalized": "personal income and outlays september 2026",
+      "observed": 1794333780.2198317
+    },
+    "bb26607c30490e4d9c2ec44a": {
+      "normalized": "u s international transactions and investment position 2nd quarter 2026",
+      "observed": 1794333780.2198317
+    },
+    "0e1e0d3cf930db958456c70d": {
+      "normalized": "personal income and outlays july 2026",
+      "observed": 1794333780.2198317
+    },
+    "cb4d0f6d7df920817a0060fa": {
+      "normalized": "personal income and outlays june 2026",
+      "observed": 1794333780.2198317
+    },
+    "2462685022c2f847f13fa257": {
+      "normalized": "direct investment by country and industry 2025",
+      "observed": 1794333780.2198317
+    },
+    "9eb4c34d4099e4d766b7f682": {
+      "normalized": "activities of u s affiliates of foreign multinational enterprises 2024",
+      "observed": 1794333780.2198317
+    },
+    "24e42f8333ed4f9036214066": {
+      "normalized": "personal income and outlays may 2026",
+      "observed": 1794333780.2198317
+    },
+    "d20a53beb98886263e0d3b2a": {
+      "normalized": "new foreign direct investment in the united states 2025",
+      "observed": 1794333780.2198317
+    },
+    "d5bdc407fb39fc8ebbf3fd7b": {
+      "normalized": "personal income and outlays april 2026",
+      "observed": 1794333780.2198317
+    },
+    "22635df863fa54287bc32498": {
+      "normalized": "personal income and outlays january 2026",
+      "observed": 1794333780.2198317
+    },
+    "d3ff63a0e5d43ba0ecfb0762": {
+      "normalized": "outdoor recreation economic statistics u s and states 2024",
+      "observed": 1794333780.2198317
+    },
+    "c039453e646b912be66654ae": {
+      "normalized": "personal income and outlays december 2025",
+      "observed": 1794333780.2198317
+    },
+    "c0c9787fa9e3349cb303e2b1": {
+      "normalized": "real personal consumption expenditures by state and real personal income by state 2024",
+      "observed": 1794333780.2198317
+    },
+    "93086edaf2f435d9e18ea519": {
+      "normalized": "gross domestic product by county and personal income by county 2024",
+      "observed": 1794333780.2198317
+    },
+    "54408e6ad2ed1bf4416433ca": {
+      "normalized": "gross domestic product by state and personal income by state 3rd quarter 2025",
+      "observed": 1794333780.2198317
+    },
+    "bf248c58930ecd4b2a27334b": {
+      "normalized": "u s international investment position 3rd quarter 2025",
+      "observed": 1794333780.2198317
+    },
+    "572806362c5881259dd7d021": {
+      "normalized": "u s international transactions 3rd quarter 2025",
+      "observed": 1794333780.2198317
+    },
+    "bd8bbfcae6e2d4abf99a01c0": {
+      "normalized": "gross domestic product for puerto rico 2023",
+      "observed": 1794333780.2198317
+    },
+    "ab6a34b33c31c20cdfa4b544": {
+      "normalized": "activities of u s multinational enterprises 2023",
+      "observed": 1794333780.2198317
+    },
+    "3352b1bee53afd18cd785622": {
+      "normalized": "marine economy satellite account 2023",
+      "observed": 1794333780.2198317
+    },
+    "fb568061b4a1cd5d81596166": {
+      "normalized": "arts and cultural production satellite account u s and states 2023",
+      "observed": 1794333780.2198317
+    },
+    "26246650164611f46a23249e": {
+      "normalized": "real personal consumption expenditures by state and real personal income by state and metropolitan area 2023",
+      "observed": 1794333780.2198317
+    },
+    "5db4e7cd2fdd90a0713effc9": {
+      "normalized": "gross domestic product by county and metropolitan area 2023",
+      "observed": 1794333780.2198317
+    },
+    "457fa577dd4c730e75d3897b": {
+      "normalized": "gross domestic product for the commonwealth of the northern mariana islands 2021 and 2022",
+      "observed": 1794333780.2198317
+    },
+    "3700a2019be8dc67db830dd2": {
+      "normalized": "outdoor recreation satellite account u s and states 2023",
+      "observed": 1794333780.2198317
+    },
+    "0a938337f084af5a4cb10f1c": {
+      "normalized": "personal income by county and metropolitan area 2023",
+      "observed": 1794333780.2198317
+    },
+    "e0a744d0402971a7e6a3cde8": {
+      "normalized": "personal consumption expenditures by state 2023",
+      "observed": 1794333780.2198317
+    },
+    "f43c37f50af84cb47ab8c42a": {
+      "normalized": "gross domestic product for the u s virgin islands 2022",
+      "observed": 1794333780.2198317
+    },
+    "f53c3803e52510cd501f3bca": {
+      "normalized": "gross domestic product for guam 2022",
+      "observed": 1794333780.2198317
+    },
+    "a65c50b91bc1feb309875f65": {
+      "normalized": "gross domestic product by state 2nd quarter 2023 and comprehensive update",
+      "observed": 1794333780.2198317
+    },
+    "86e59fe33b2d1e56a8f24d4a": {
+      "normalized": "gross domestic product by industry 2nd quarter 2023 and comprehensive update",
+      "observed": 1794333780.2198317
+    },
+    "cf15e8fc1d66f6fa5a2d3363": {
+      "normalized": "gross domestic product for american samoa 2022",
+      "observed": 1794333780.2198317
+    },
+    "e11d67ceb52d9f1f8291f158": {
+      "normalized": "personal income by state 2nd quarter 2023",
+      "observed": 1794333780.2198317
+    },
+    "eb26247adc77162e1ffd5d55": {
+      "normalized": "gross domestic product by county 2021",
+      "observed": 1794333780.2198317
+    },
+    "86a005bbf652514cb7f42c43": {
+      "normalized": "real personal consumption expenditures and personal income by state 2020",
+      "observed": 1794333780.2198317
+    },
+    "8156ddded77e77842febd37f": {
+      "normalized": "gross domestic product for the cnmi 2019",
+      "observed": 1794333780.2198317
+    },
+    "52a70406a730b310557f9412": {
+      "normalized": "real personal income by state and metropolitan area 2019",
+      "observed": 1794333780.2198317
+    },
+    "b42d04d7d0dea538a19a844d": {
+      "normalized": "state quarterly personal income 3rd quarter 2019",
+      "observed": 1794333780.2198317
+    },
+    "3595e64e38ea58c15bc7cdee": {
+      "normalized": "local area gross domestic product 2018",
+      "observed": 1794333780.2198317
+    },
+    "9f089a5a1009090b87862e9f": {
+      "normalized": "gross domestic product for the commonwealth of the northern mariana islands cnmi 2018",
+      "observed": 1794333780.2198317
+    },
+    "fbc84ba6e59558337fa528a2": {
+      "normalized": "gross domestic product for u s virgin islands usvi 2017",
+      "observed": 1794333780.2198317
+    },
+    "59c1b9eb267ecc577fe75176": {
+      "normalized": "foreign direct investment by country and industry 2017",
+      "observed": 1794333780.2198317
+    },
+    "cd3315d0b2ec5f5482384433": {
+      "normalized": "travel and tourism satellite accounts 3rd quarter 2017",
+      "observed": 1794333780.2198317
+    },
+    "16a49657cc5f6921d765df12": {
+      "normalized": "gross domestic product by metropolitan area 2016",
+      "observed": 1794333780.2198317
+    },
+    "832672ae4fcecc7d7b864076": {
+      "normalized": "benchmark input output account of the u s economy 2007",
+      "observed": 1794333780.2198317
+    },
+    "31c99055257909bfb7af89a1": {
+      "normalized": "summary estimates for multinational companies 2011",
+      "observed": 1794333780.2198317
+    },
+    "cf7454c1ebcaf6bd77f047d3": {
+      "normalized": "anthropic set for 1 3tn stock market debut despite catastrophic ai warning",
+      "observed": 1794333780.2198317
+    },
+    "d5916942de896afbdcc9ad5b": {
+      "normalized": "sales of tinned food and bottled water jump after be ready campaign launch",
+      "observed": 1794333780.2198317
+    },
+    "499c56769a8dd2203e99b25d": {
+      "normalized": "trump says fbi investigating nvidia boss s affair with alleged chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "83f3d98fbb6538ab2f8be64e": {
+      "normalized": "us inflation higher than expected in october here s what is happening with prices",
+      "observed": 1794333780.2198317
+    },
+    "0bf57aada3be479b3cbf897e": {
+      "normalized": "kim kardashian s skims offers refunds for 148 advent calendar after backlash",
+      "observed": 1794333780.2198317
+    },
+    "ee0334913259c3de54f32812": {
+      "normalized": "i took vinted to court to get my money back",
+      "observed": 1794333780.2198317
+    },
+    "d707cf49877fd722ae1e4eee": {
+      "normalized": "faisal islam what the boss of us tech giant nvidia told me about china and national security",
+      "observed": 1794333780.2198317
+    },
+    "cb86df0a9bda101810087c9c": {
+      "normalized": "the superpower battle over energy and what it means for your bills",
+      "observed": 1794333780.2198317
+    },
+    "673eb30abad94811a668080f": {
+      "normalized": "how a civil servant got away with juggling five jobs for so long",
+      "observed": 1794333780.2198317
+    },
+    "ccf151fa9e1c77a887e19d8e": {
+      "normalized": "nvidia shares tumble over investigation into huang s affair with alleged chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "e0f14717c070ae0dece653cf": {
+      "normalized": "zoe kleinman nvidia ceo s affair will cause ripples across us and beyond",
+      "observed": 1794333780.2198317
+    },
+    "0dc226b3d66765a7d9105737": {
+      "normalized": "californians reject wealth tax for billionaires",
+      "observed": 1794333780.2198317
+    },
+    "a039bb634b5d02ec8a18d5b4": {
+      "normalized": "australia considers criminal penalties for rogue ai in wake of openai hack",
+      "observed": 1794333780.2198317
+    },
+    "24e3ddfb20f88718ed05a3c9": {
+      "normalized": "civil servant who secretly held five jobs found guilty of fraud",
+      "observed": 1794333780.2198317
+    },
+    "bbd19b01ffb5a82e834b7f2f": {
+      "normalized": "poundland unable to buy new stock as fears over collapse grow",
+      "observed": 1794333780.2198317
+    },
+    "692eb2ac17104bc1b1ae2885": {
+      "normalized": "qantas to outsource 850 local jobs with most roles moving to india",
+      "observed": 1794333780.2198317
+    },
+    "ecd750382ac632f813d18473": {
+      "normalized": "what we know so far about jensen huang s affair with suspected chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "833ddb078aa9d8dd5d2fbb07": {
+      "normalized": "doing these things now will help you save money at christmas",
+      "observed": 1794333780.2198317
+    },
+    "2c0f5ee79a93d8c7cc2db536": {
+      "normalized": "what do we know about nvidia ceo s affair with a suspected chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "c3dcc9b01a71ee041951b02c": {
+      "normalized": "government s ev targets expected to be reduced this week",
+      "observed": 1794333780.2198317
+    },
+    "0a5af6060a979d3d6b331132": {
+      "normalized": "the engine parts that fight the laws of the universe",
+      "observed": 1794333780.2198317
+    },
+    "9f6b4773d7e5db8f86f8be96": {
+      "normalized": "graduates are managing ai but are they learning much else",
+      "observed": 1794333780.2198317
+    },
+    "dcac1741749212d6bc91f1aa": {
+      "normalized": "how video game remakes tap the power of nostalgia",
+      "observed": 1794333780.2198317
+    },
+    "fd82e88d33d0629072748a1e": {
+      "normalized": "i live with a ghost inside the haunted homes attracting bargain hunters",
+      "observed": 1794333780.2198317
+    },
+    "d94f9e2f87907eadb957f710": {
+      "normalized": "an annoying buzz the search for stealthier drones",
+      "observed": 1794333780.2198317
+    },
+    "3a2e0e84fe64384b7ff39852": {
+      "normalized": "the indian workers filming their work to train ai",
+      "observed": 1794333780.2198317
+    },
+    "f820c7591c5ec788a09f7659": {
+      "normalized": "the grads ditching the uk for a fresh start abroad",
+      "observed": 1794333780.2198317
+    },
+    "cc7eeb3434cebee6f8d3cd25": {
+      "normalized": "the tech helping crack decades old cold cases",
+      "observed": 1794333780.2198317
+    },
+    "8b30db1cafa050b4a8aebd7c": {
+      "normalized": "living with a stink technology might help",
+      "observed": 1794333780.2198317
+    },
+    "caea60b6853fe122c4c9b636": {
+      "normalized": "as christmas rush looms how do china made toys find their way to the us",
+      "observed": 1794333780.2198317
+    },
+    "fde2b6c560261a13a5ea1d28": {
+      "normalized": "how long will humans be needed for translation",
+      "observed": 1794333780.2198317
+    },
+    "314560b16624fb264a6a3c1d": {
+      "normalized": "why are more roofs not made of solar tiles",
+      "observed": 1794333780.2198317
+    },
+    "cfdbec3b76589ac0b09ace23": {
+      "normalized": "how oil rich alberta s economy might fare if it broke away from canada",
+      "observed": 1794333780.2198317
+    },
+    "82dac5bd65af1d3699478ccf": {
+      "normalized": "rainmakers the drones used to seed clouds",
+      "observed": 1794333780.2198317
+    },
+    "57e3fe9fe4b19db14b88d2fc": {
+      "normalized": "the ai telling farmers when to harvest",
+      "observed": 1794333780.2198317
+    },
+    "3a3a1a873507ac0edbc75ce7": {
+      "normalized": "some pupils struggling just to get a hot meal",
+      "observed": 1794333780.2198317
+    },
+    "c77554c9d738c90ed538ea82": {
+      "normalized": "thousands of off grid homes eligible for 250 to help with heating bills",
+      "observed": 1794333780.2198317
+    },
+    "62ab817fc816e37baec99c9f": {
+      "normalized": "new regulation for heating oil market but no price controls",
+      "observed": 1794333780.2198317
+    },
+    "d744527334d2397f493252e9": {
+      "normalized": "holiday hunger bill to face final stormont hurdle",
+      "observed": 1794333780.2198317
+    },
+    "0f19ce8e58d6b33d0ae0c086": {
+      "normalized": "my hometown shows that high streets have to change or die",
+      "observed": 1794333780.2198317
+    },
+    "7fb74cb2bb7d4e60853f9b17": {
+      "normalized": "europe s car makers are in crisis will the threat of war rescue them",
+      "observed": 1794333780.2198317
+    },
+    "7edf15eecdd171666a3c0f43": {
+      "normalized": "aviation faces hotter stormier skies and passengers might have to accept more disruption",
+      "observed": 1794333780.2198317
+    },
+    "871e4a1a7ae0be3699297822": {
+      "normalized": "why the uk is dithering over what to do about e scooters",
+      "observed": 1794333780.2198317
+    },
+    "56e16d35ca34e926d804b415": {
+      "normalized": "why gen z are planning for life without a state pension",
+      "observed": 1794333780.2198317
+    },
+    "f26778fa154a80f0c8dd22ae": {
+      "normalized": "the facial recognition technology stopping shoplifters",
+      "observed": 1794333780.2198317
+    },
+    "b989ff9fe131549b0252cd03": {
+      "normalized": "ipswich town s new club shop here to stay",
+      "observed": 1794333780.2198317
+    },
+    "aa1ae5c6a0a2a6c6ea496724": {
+      "normalized": "first day of ukraine peace talks constructive zelensky says",
+      "observed": 1794333780.2198317
+    },
+    "32150e8e9b78cf9dd523f0fd": {
+      "normalized": "arrests made in mohamed al fayed probe in france police say",
+      "observed": 1794333780.2198317
+    },
+    "37be34111ccb75a448d49cff": {
+      "normalized": "israel s new parliament sworn in as leaders compete to form government",
+      "observed": 1794333780.2198317
+    },
+    "c9540550fbabd3cfc1c2fd0f": {
+      "normalized": "twelve dead after motorway pile ups in bulgaria fog",
+      "observed": 1794333780.2198317
+    },
+    "bfa78d637fbce0b256e136ff": {
+      "normalized": "police officer dies and another injured after backpack explosion in northern spain",
+      "observed": 1794333780.2198317
+    },
+    "d8a99e8fdcfba2425b85610b": {
+      "normalized": "french wartime resistance heroine solange alexandre dies aged 104",
+      "observed": 1794333780.2198317
+    },
+    "2b6686cf7ec2a59129b8eb25": {
+      "normalized": "board of peace says israel s aid response after gaza floods insufficent",
+      "observed": 1794333780.2198317
+    },
+    "43d4a1f80ba6f2a0f9375cda": {
+      "normalized": "dr congo sentences 66 soldiers to death for being cowards",
+      "observed": 1794333780.2198317
+    },
+    "8a6e9efd6924fc020104da5f": {
+      "normalized": "cruise for life ship seized in singapore",
+      "observed": 1794333780.2198317
+    },
+    "600aebc1ffffa5bfc9449062": {
+      "normalized": "iran rejects french claims it was behind supermarket fridge hacking",
+      "observed": 1794333780.2198317
+    },
+    "4dab13a8aeafbdb6045e1de9": {
+      "normalized": "california police investigate after 27 fall ill at half marathon running event",
+      "observed": 1794333780.2198317
+    },
+    "1e8c38500a3c2f1382302bfc": {
+      "normalized": "israeli forces kill palestinian boy in west bank health ministry says",
+      "observed": 1794333780.2198317
+    },
+    "01a1a206bb4235c8368684a9": {
+      "normalized": "trump says more us attacks on iran highly unlikely",
+      "observed": 1794333780.2198317
+    },
+    "e66bc0fdea067e31a21a208b": {
+      "normalized": "oxford museum returns ancestral naga skulls to india",
+      "observed": 1794333780.2198317
+    },
+    "d72a60184a0d625c60849c4a": {
+      "normalized": "turkey steel factory blast kills at least 17 people",
+      "observed": 1794333780.2198317
+    },
+    "15429dde8f7176b1789c0664": {
+      "normalized": "judge denies motion to dismiss lindsay clancy s murder case",
+      "observed": 1794333780.2198317
+    },
+    "355bd228cb0b2bd40bbdfc75": {
+      "normalized": "trial date of alleged charlie kirk killer set for june 2028",
+      "observed": 1794333780.2198317
+    },
+    "d4110ecb33e905d57156847d": {
+      "normalized": "it s a farce hegseth s defiant response to impeachment effort",
+      "observed": 1794333780.2198317
+    },
+    "878c7fbbd8fe1183ac882335": {
+      "normalized": "watch man smashes chinese government building with excavator",
+      "observed": 1794333780.2198317
+    },
+    "a4eb928472302c92cac4a547": {
+      "normalized": "russia s leading independent newspaper closes after eviction",
+      "observed": 1794333780.2198317
+    },
+    "f52fbd1bda16f79c15f9b5d8": {
+      "normalized": "inside devastated front line city that russia wants ukraine to give up",
+      "observed": 1794333780.2198317
+    },
+    "ad42db98eb81bdcfe4439864": {
+      "normalized": "polish unity on show as thousands join silent march for krakow shooting victims",
+      "observed": 1794333780.2198317
+    },
+    "9bc553cebabe31b07dfddfb5": {
+      "normalized": "there is no justice epstein survivor on how model agency sent her to abuser s home",
+      "observed": 1794333780.2198317
+    },
+    "718359a60f4aecf3bb4e086f": {
+      "normalized": "coreweave earnings put debt fueled ai build out under scrutiny",
+      "observed": 1794333780.2198317
+    },
+    "27af7348ce1a5b2262806df3": {
+      "normalized": "amazon s ring unveils flying drone and robot to patrol homes and businesses",
+      "observed": 1794333780.2198317
+    },
+    "4b21287d9954dbd66dd54a1a": {
+      "normalized": "china panel chair moolenaar demands answers on nvidia ceo s alleged affair with a chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "2223b9c6d091824ec584cc87": {
+      "normalized": "jensen huang s affair with alleged chinese spy further complicates nvidia s china problem",
+      "observed": 1794333780.2198317
+    },
+    "5cb1905e863e0d4d400c335d": {
+      "normalized": "nvidia scandal fails to bring down the tech bulls as spy investigation widens",
+      "observed": 1794333780.2198317
+    },
+    "fac6343bb939b2606a5fde94": {
+      "normalized": "anthropic sets ipo price range of 70 to 78 looks to start trading nov 19 sources say",
+      "observed": 1794333780.2198317
+    },
+    "d863c148e23c840f2930e7fe": {
+      "normalized": "nvidia falls for second day as investors weigh fallout of ceo s affair with alleged spy",
+      "observed": 1794333780.2198317
+    },
+    "af728da064d4a3eaf9f3a158": {
+      "normalized": "softbank swings to 7 billion loss after u s data center hit and intel share decline",
+      "observed": 1794333780.2198317
+    },
+    "2b958bd778acaa5413ec386e": {
+      "normalized": "tsmc s october sales jump as global chip boom rolls on",
+      "observed": 1794333780.2198317
+    },
+    "d03741489bcfca89562afc85": {
+      "normalized": "jim cramer says anthropic s ipo could make or break the ai trade here s why",
+      "observed": 1794333780.2198317
+    },
+    "2e7955242bd640ab75244dcb": {
+      "normalized": "tokenization platform securitize gains 10 postmarket on q3 results move into asset backed finance",
+      "observed": 1794333780.2198317
+    },
+    "896b94d99001ebbb928fb56f": {
+      "normalized": "nvidia s trump ties draw scrutiny after reports huang was targeted by chinese intelligence",
+      "observed": 1794333780.2198317
+    },
+    "80aec2d2a98ac371a62afde3": {
+      "normalized": "as nvidia probes jensen huang affair here s the board member likely to play a big role",
+      "observed": 1794333780.2198317
+    },
+    "14d71c6fef3d6a5113a70203": {
+      "normalized": "elizabeth warren set to take over the senate banking committee here s what she plans to do",
+      "observed": 1794333780.2198317
+    },
+    "518ee21fd2bcd9b23c880ebd": {
+      "normalized": "jensen huang affair puts nvidia s future at risk with no clear successor to the renowned ceo",
+      "observed": 1794333780.2198317
+    },
+    "5676d4e657e758870b53715c": {
+      "normalized": "anthropic releases first frontier models since amodei s call for slowdown as ipo buzz builds",
+      "observed": 1794333780.2198317
+    },
+    "1b573199fc11f4a1d5e6050a": {
+      "normalized": "goldman ceo solomon says ai financing remains strong despite market jitters",
+      "observed": 1794333780.2198317
+    },
+    "a2885c01ced674701e36e2ea": {
+      "normalized": "jim cramer says this is the stock to buy as data center development slows",
+      "observed": 1794333780.2198317
+    },
+    "9bfb660d8b4a63c83c1385d0": {
+      "normalized": "coreweave confronts doom cycle narrative as neocloud credit risk overshadows growth",
+      "observed": 1794333780.2198317
+    },
+    "4ae4ba83d8076ed6050b6692": {
+      "normalized": "nvidia s ceo turmoil gives newly empowered democrats fresh ammunition in pursuit of oversight",
+      "observed": 1794333780.2198317
+    },
+    "e5bc7dd6d95627d69947db6f": {
+      "normalized": "nasdaq defies nvidia impact as huang faces espionage affair probe",
+      "observed": 1794333780.2198317
+    },
+    "15bff4285cd46ad757de4a26": {
+      "normalized": "what is megaspeed the nvidia chip buyer in the spotlight after jensen huang s affair",
+      "observed": 1794333780.2198317
+    },
+    "c88e7c9aed68c4a778d79e30": {
+      "normalized": "nvidia stock falls 4 as scrutiny turns to jensen huang s affair with alleged chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "ff7a0301123822244fff79b0": {
+      "normalized": "read huang s email to his staff and statement from nvidia s board of directors",
+      "observed": 1794333780.2198317
+    },
+    "1ffd1d162e31b881461dfabf": {
+      "normalized": "nvidia investigates ceo jensen huang s relationship with alleged chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "3dcc53fb2579002e9ab28de0": {
+      "normalized": "nvidia ceo jensen huang faces bipartisan congressional scrutiny over reported china spy link",
+      "observed": 1794333780.2198317
+    },
+    "4a3d5938a3f3e42cf122c830": {
+      "normalized": "recent ai agent experiments reveal a risky future of machine teamwork inside corporations",
+      "observed": 1794333780.2198317
+    },
+    "d6dcfbbfe56b97e289019824": {
+      "normalized": "amazon s astro home robot has fans but looks destined for the trash heap why it s trying again",
+      "observed": 1794333780.2198317
+    },
+    "0340a5bfaa92234d2873608a": {
+      "normalized": "cathie wood always feels better when the market is worried here s why",
+      "observed": 1794333780.2198317
+    },
+    "f452f8e2996330f873283456": {
+      "normalized": "ai is speeding up recruitment and putting agency fees under pressure",
+      "observed": 1794333780.2198317
+    },
+    "604ce122256499c38bd81260": {
+      "normalized": "us inflation rose 0 4 in october as price increases cooled and gas costs dipped",
+      "observed": 1794333780.2198317
+    },
+    "c33c35de28f8aa7c25c30eae": {
+      "normalized": "nvidia and jensen huang sued in us over affair with alleged chinese spy",
+      "observed": 1794333780.2198317
+    },
+    "d19a3435c2b635ae756b033c": {
+      "normalized": "oil prices fall to lowest since august as trump says iran war is effectively over",
+      "observed": 1794333780.2198317
+    },
+    "b589f540c3c1d647171ac2df": {
+      "normalized": "anthropic targets valuation of up to 1 4tn in stock market flotation",
+      "observed": 1794333780.2198317
+    },
+    "6c0224675c3a74d7d0e6a814": {
+      "normalized": "boeing to cut about 5 of its commercial plane workforce",
+      "observed": 1794333780.2198317
+    },
+    "80546b9b1bc412c7833633c9": {
+      "normalized": "us job growth exceeds expectations in october despite economic uncertainty",
+      "observed": 1794333780.2198317
+    },
+    "0adf2d04c6db565760c8470b": {
+      "normalized": "could the ai bubble burst after democrats midterms sweep the latest",
+      "observed": 1794333780.2198317
+    },
+    "003e0645e995339b5b1eeff6": {
+      "normalized": "tesla to wind down cybertruck production as elon musk focuses on robotics and ai",
+      "observed": 1794333780.2198317
+    },
+    "586e589e3a97e3e4b9abc12f": {
+      "normalized": "rural voters were feeling left behind before the midterms poll shows",
+      "observed": 1794333780.2198317
+    },
+    "a69c4bc952b6e0b9bb8ddf0b": {
+      "normalized": "economic relief is on the way democrats say but what how and when",
+      "observed": 1794333780.2198317
+    },
+    "00d7c4b8d9eed1db73f18824": {
+      "normalized": "standing in the way of slop bowls the woman blocking food delivery robots",
+      "observed": 1794333780.2198317
+    },
+    "dcae4210072b037b6f22d899": {
+      "normalized": "tech barons cozied up to trump what will they do in newly blue america",
+      "observed": 1794333780.2198317
+    },
+    "ee27bc24192866a64be12a95": {
+      "normalized": "uk and argentina clash over falklands oil project as hamburg tribunal starts",
+      "observed": 1794333780.2198317
+    },
+    "5715e3e18a6a6263cffa9ab4": {
+      "normalized": "chinese carmaker byd s offices in netherlands raided over jlr copycat car claim",
+      "observed": 1794333780.2198317
+    },
+    "58207d827f27616f3057211c": {
+      "normalized": "banana producers in latin america want better pay to cope with effects of climate crisis",
+      "observed": 1794333780.2198317
+    },
+    "6a9522bf3c0a7235ce7ddc99": {
+      "normalized": "five european leaders call for closer eu uk ties ahead of brussels summit",
+      "observed": 1794333780.2198317
+    },
+    "935bc6ae928355b49f9b7ee7": {
+      "normalized": "when her soul cat died she was bereft now she designs memorial jewelry to help others with pet loss",
+      "observed": 1794333780.2198317
+    },
+    "aa86d9fadf2f721f87be1df7": {
+      "normalized": "financial bullying can ruin a marriage first person stories",
+      "observed": 1794333780.2198317
+    },
+    "1a201eed1ec9f1c3b1772ff6": {
+      "normalized": "tech s biggest names sunk a tax on billionaires wealth with 425m and a familiar playbook",
+      "observed": 1794333780.2198317
+    },
+    "cba1e1de986d8cebe4c0aad9": {
+      "normalized": "i ain t goin nowhere gullah geechee people fight off developers with a historic referendum",
+      "observed": 1794333780.2198317
+    },
+    "6b69927ce958a6f17d3a3384": {
+      "normalized": "lewis hamilton visits egypt s rafah crossing and gaza aid facilities",
+      "observed": 1794333780.2198317
+    },
+    "34322aec8d08b50a36f6edbb": {
+      "normalized": "collision of two trains in egypt kills at least seven",
+      "observed": 1794333780.2198317
+    },
+    "cc614fc17e3e672c73ae0359": {
+      "normalized": "how african philosophies inspired a new approach to staging film festivals in manchester",
+      "observed": 1794333780.2198317
+    },
+    "d37f04c888474405f514909b": {
+      "normalized": "kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+      "observed": 1794333780.2198317
+    },
+    "dddce14fdba3c426609260b1": {
+      "normalized": "anc faces bruising defeat in south african local elections with 80 of ballots counted",
+      "observed": 1794333780.2198317
+    },
+    "c8dcf16c37ca806ec59065c5": {
+      "normalized": "deadly floods hit iraq as thunderstorms sweep across region",
+      "observed": 1794333780.2198317
+    },
+    "f4f0c4d607b2e74b659d1431": {
+      "normalized": "pope leo delivers stinging rebuke of milei s austerity measures during argentina visit",
+      "observed": 1794333780.2198317
+    },
+    "814f468eda76ce6d361f8afe": {
+      "normalized": "pope s visit to argentina sets up showdown with hyper capitalist milei",
+      "observed": 1794333780.2198317
+    },
+    "0b274c7e69f152342f809442": {
+      "normalized": "us and rest of world must follow china s lead on green energy says john kerry",
+      "observed": 1794333780.2198317
+    },
+    "24e3f869da04e7dcde2666ed": {
+      "normalized": "nvidia opens investigation after report ceo jensen huang was target of foreign intelligence",
+      "observed": 1794333780.2198317
+    },
+    "94440ceb1184935a982c0a87": {
+      "normalized": "uyghurs facing deportation by thailand say they will be like slaves in china",
+      "observed": 1794333780.2198317
+    },
+    "7b7a23675b579ed3ce52c2a9": {
+      "normalized": "nz election 2026 new zealand faces weeks of uncertainty with results too close to call",
+      "observed": 1794333780.2198317
+    },
+    "5e66344dd9dfde86cc4ea8e7": {
+      "normalized": "new zealand election coalition talks will likely take weeks as it happened",
+      "observed": 1794333780.2198317
+    },
+    "69d8f8120d0bf2fe717ded83": {
+      "normalized": "victorian labor s unforgivable preferences decision risks liberal one nation government greens warn",
+      "observed": 1794333780.2198317
+    },
+    "22b1b0eb9ea8dd151e9343a9": {
+      "normalized": "david jones s finances were reviewed and restructuring flagged months before it fell into administration",
+      "observed": 1794333780.2198317
+    },
+    "1bcef4f58fee8369277a7dc8": {
+      "normalized": "australia to introduce mandatory reporting after openai hack to combat artificial intelligence going rogue",
+      "observed": 1794333780.2198317
+    },
+    "d9ad12945c8c56c29c625cf1": {
+      "normalized": "beau lamarre condon admits entering jesse baird s house when he wasn t home and eating easter egg murder trial hears",
+      "observed": 1794333780.2198317
+    },
+    "8561d915d0dfbc8ebb916126": {
+      "normalized": "mortgage holders confidence crashes to lowest level since 1994 as year that feels like a recession looms",
+      "observed": 1794333780.2198317
+    },
+    "b4ecab49850a771b7499f572": {
+      "normalized": "britain willing to discuss paying into eu to join electricity market says minister",
+      "observed": 1794333780.2198317
+    },
+    "14e047a128c358085975feed": {
+      "normalized": "russian naval aggression prompts new defensive initiative with beer drinking nations",
+      "observed": 1794333780.2198317
+    },
+    "304289bfb2452c7465e8acd3": {
+      "normalized": "russia ukraine talks very productive says us s rubio as it happened",
+      "observed": 1794333780.2198317
+    },
+    "6bfeb8bbbbb1ad41eb7c0d41": {
+      "normalized": "us officials seek final end to russia ukraine war as abu dhabi talks set to continue",
+      "observed": 1794333780.2198317
+    },
+    "f1bff295ea0aa5efe4dbd50a": {
+      "normalized": "merz accused of blackmail by slovak pm after demand for ukraine aid in eu budget",
+      "observed": 1794333780.2198317
+    },
+    "67ef1a264d6c3fe950bae649": {
+      "normalized": "new knesset speaker could be key to ousting netanyahu as israel s pm",
+      "observed": 1794333780.2198317
+    },
+    "cece2d03d4294499d432fdc6": {
+      "normalized": "witnesses recount struggle to save people buried in horrifying gaza landslide",
+      "observed": 1794333780.2198317
+    },
+    "f4857547bb089ef223fced47": {
+      "normalized": "gadi eisenkot reaches out to netanyahu allies as he strives to form government",
+      "observed": 1794333780.2198317
+    },
+    "cb56ccf987c3972eb54374a3": {
+      "normalized": "israel s president picks yashar leader gadi eisenkot to form government",
+      "observed": 1794333780.2198317
+    },
+    "be81966c757d657a158e7877": {
+      "normalized": "court rules against home office in asylum seeker kidnapping case",
+      "observed": 1794333780.2198317
+    },
+    "fa6b748daaf908e75989d6fb": {
+      "normalized": "disgraced former leader sheikh hasina plans return to bangladesh from exile",
+      "observed": 1794333780.2198317
+    },
+    "85c068ceadce7d63b032a88f": {
+      "normalized": "grenades grief and a deepening political divide five takeaways from sonia gandhi s new memoir",
+      "observed": 1794333780.2198317
+    },
+    "f3376e77d0e9604c3fb23633": {
+      "normalized": "environmentalists criticise choice of earthshot prize venue owned by fossil fuel firm",
+      "observed": 1794333780.2198317
+    },
+    "061f44028f44e8a47b9e589e": {
+      "normalized": "the private creative world of rabindranath tagore the man yeats called greater than any of us",
+      "observed": 1794333780.2198317
+    },
+    "5f07638c574d7881e26161bf": {
+      "normalized": "uk ministers told not to engage formally with indian mega zoo after lobbying",
+      "observed": 1794333780.2198317
+    },
+    "b3662cdaa08a101d7d2ceb6e": {
+      "normalized": "uk social media ban expansion for under 16s could cover youtube kids",
+      "observed": 1794333780.2198317
+    },
+    "d6ab0671ed22093b7f356032": {
+      "normalized": "planned tory welfare cuts a charter for human misery says labour as it happened",
+      "observed": 1794333780.2198317
+    },
+    "a276ac32391a3d8eb4d19f26": {
+      "normalized": "people in deprived areas of england more than twice as likely to die early study shows",
+      "observed": 1794333780.2198317
+    },
+    "2250559e5b8b9fc8c2936792": {
+      "normalized": "cop31 as it happened everything and everyone we love is at stake greta thunberg warns",
+      "observed": 1794333780.2198317
+    },
+    "5938a52e0f254c43c25f2f0c": {
+      "normalized": "the allegations against david walliams podcast",
+      "observed": 1794333780.2198317
+    },
+    "c3bf3fc750c1c21777a04930": {
+      "normalized": "pete hegseth dismisses republican s impeachment effort against him as a political spectacle us politics live",
+      "observed": 1794333780.2198317
+    },
+    "e42dc3a4b15d3b1856eca7da": {
+      "normalized": "texas man charged with murder of woman aboard msc cruise ship",
+      "observed": 1794333780.2198317
+    },
+    "945426d09e131b73deb48a4b": {
+      "normalized": "michigan sports parent allegedly defecates in rival high school s corridor definitely a first",
+      "observed": 1794333780.2198317
+    },
+    "71d3afcb33cb87e2efa27485": {
+      "normalized": "haitian boy 8 detained by ice is now unaccounted for lawmaker says",
+      "observed": 1794333780.2198317
+    }
+  },
+  "pending": []
+}
