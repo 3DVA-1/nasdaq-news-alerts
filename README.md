@@ -24,7 +24,7 @@ Tikrinimas numatytas visą parą kas valandą, 7 minutę kiekvieną valandą UTC
 
 Būsena ir laukiančių laiškų eilė laikoma tik šios saugyklos news_state/state.json. Po neaiškaus SMTP ryšio nutrūkimo retais atvejais galimas pakartojimas. Jei naudojama ta pati Gmail paskyra kaip NQ signalams, pašto siuntimo limitai vis dar bendri.
 
-Saugykla privati: kodas, žurnalai ir naujienų įrašai prieinami tik leidimus turintiems naudotojams. Slapti pašto nustatymai laikomi Secrets. Privačios saugyklos naudoja bendrą paskyros nemokamo skaičiavimo kvotą. Taupymui pasirinktas tikrinimas kas valandą ir 2 min. vykdymo riba; kiti projektai taip pat gali naudoti šią kvotą. Papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
+Saugykla vieša: kodas, pakeitimų istorija, GitHub Actions žurnalai ir news_state naujienų įrašai matomi visiems. Slaptos pašto nustatymų reikšmės laikomos GitHub Secrets ir viešai nerodomos. Standartiniai GitHub talpinami vykdytojai viešoms saugykloms nemokami. Tikrinimas lieka kas valandą (cron: `7 * * * *`), o vykdymo riba – 2 min. Papildomos mokamos AI, naujienų ar el. pašto paslaugos neprijungtos.
 
 ## Vietinė patikra
 
