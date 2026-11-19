@@ -27,110 +27,6 @@
     }
   },
   "seen": {
-    "c46d69f2e6b6a3f8f88d94ca": {
-      "normalized": "some under 25s should get fewer benefits milburn review to say",
-      "observed": 1794483917.2217007
-    },
-    "7bd7a12231385971a5943835": {
-      "normalized": "uk economy grows at fastest rate for more than two years",
-      "observed": 1794483917.2217007
-    },
-    "bfdcdb23b39b9316b1a20685": {
-      "normalized": "who could replace jensen huang as nvidia s chief executive",
-      "observed": 1794483917.2217007
-    },
-    "81b070010f3b856e8c46c46c": {
-      "normalized": "indonesia s vice president resigns amid signs ruling alliance is fraying",
-      "observed": 1794483917.2217007
-    },
-    "9ea9ff89c1f18b1779101f27": {
-      "normalized": "israeli strike on gaza hospital kills six palestinians health ministry says",
-      "observed": 1794483917.2217007
-    },
-    "e06573a8547d3c6f23e84ec9": {
-      "normalized": "democrat scott colom makes history as mississippi s first black senator since 19th century",
-      "observed": 1794483917.2217007
-    },
-    "629d8645006bcd6c7bb989cb": {
-      "normalized": "us envoys arrive in moscow for ukraine talks with vladimir putin",
-      "observed": 1794483917.2217007
-    },
-    "256328e99436f34acf06dcb5": {
-      "normalized": "british woman missing from cruise ship in atlantic",
-      "observed": 1794483917.2217007
-    },
-    "00f716dc6f163dc18a261c22": {
-      "normalized": "new york building collapse kills at least two officials say",
-      "observed": 1794483917.2217007
-    },
-    "02a8dccdc1deb297717173ec": {
-      "normalized": "ukrainian defense tech startup hits 6 billion valuation as investors bet on battle tested drones",
-      "observed": 1794483917.2217007
-    },
-    "cedd4bae6afd5504e385342d": {
-      "normalized": "lutnick should ban chinese memory maker cxmt from u s sen cotton says",
-      "observed": 1794483917.2217007
-    },
-    "8f55913001de0f751398c8bd": {
-      "normalized": "a dark day for nvidia here s what analysts are saying as markets brace for news on huang s fate",
-      "observed": 1794483917.2217007
-    },
-    "fb61dc5dcad09f33b019983c": {
-      "normalized": "ukraine warns of fresh starshield disruptions as u s envoys arrive in moscow for talks with putin",
-      "observed": 1794483917.2217007
-    },
-    "8309a302b273557117750209": {
-      "normalized": "nvidia stock falls 7 as investors await jensen huang s fate",
-      "observed": 1794483917.2217007
-    },
-    "69fe3e75ab3aa42c847045c2": {
-      "normalized": "he is never leaving the house again mother reunites with son missing for six days in victorian bushland",
-      "observed": 1794483917.2217007
-    },
-    "dcb6546378d4d6cd77e50aa2": {
-      "normalized": "like priests who don t believe in god italy s anti vax medics eye return to frontline duty",
-      "observed": 1794483917.2217007
-    },
-    "4b3242014975d8d922e8b02d": {
-      "normalized": "uk drone maker founded by ukrainians hits 4 5bn value after raising 500m",
-      "observed": 1794483917.2217007
-    },
-    "b4694277792fc8dc06774c0d": {
-      "normalized": "far right activist daniel thomas admits criminal damage of dinghy in the channel",
-      "observed": 1794483917.2217007
-    },
-    "0dc80d5c327ffb310433c7e8": {
-      "normalized": "nhs england deletes misleading claim 137 trusts benefiting from palantir ai tools",
-      "observed": 1794483917.2217007
-    },
-    "28f53ead5ab0b1e6a3b19600": {
-      "normalized": "trump the biggest loser for scrapping climate action john kerry says at cop31",
-      "observed": 1794483917.2217007
-    },
-    "fdcd9fbec749f65cffd7612a": {
-      "normalized": "college students rally in support of starbucks baristas urging boycott over contract impasse",
-      "observed": 1794483917.2217007
-    },
-    "2f38075a51c033d0c4757a4b": {
-      "normalized": "european survey reveals 900m galaxies and possibly secrets of dark universe",
-      "observed": 1794483917.2217007
-    },
-    "29fe35d4b0ac942ddd829e6e": {
-      "normalized": "ukraine hit by significant starshield disruptions as us envoys meet putin zelenskyy says europe live",
-      "observed": 1794483917.2217007
-    },
-    "ecaaf4812cbf32f1e999a17f": {
-      "normalized": "israeli airstrike on nasser hospital in gaza kills surgeon and five others",
-      "observed": 1794483917.2217007
-    },
-    "13c402f0d6352f7f611cd751": {
-      "normalized": "burberry returns to profit as sales soar from 85 socks to 9 000 bags",
-      "observed": 1794483917.2217007
-    },
-    "6cabe828f0ebd27ef0b05ca5": {
-      "normalized": "young people should get fewer welfare benefits according to milburn review on the workforce uk politics live",
-      "observed": 1794483917.2217007
-    },
     "4c097370d26666ac14da5b3a": {
       "normalized": "federal reserve announces revised tentative schedule of federal open market committee meetings in 2027",
       "observed": 1794512987.7314837
@@ -1874,6 +1770,114 @@
     "64bdcb2b6184b090f0c6821a": {
       "normalized": "violent protests and killings in bangladesh ahead of exiled sheikh hasina s planned return",
       "observed": 1795074655.4837084
+    },
+    "f3d4737810f2e7ab0526386d": {
+      "normalized": "jefferson monetary policy amid frequent and complex shocks",
+      "observed": 1795108699.8643274
+    },
+    "5ccce69ab73db6ccfffe836f": {
+      "normalized": "more support for households reliant on heating oil",
+      "observed": 1795108699.8643274
+    },
+    "2066b5043de98c9cc1c78643": {
+      "normalized": "anthropic raises 81bn in record breaking stock market debut",
+      "observed": 1795108699.8643274
+    },
+    "ccb7c2fda3abd28e0ac3821a": {
+      "normalized": "trump putin and xi release peace declaration after historic meeting",
+      "observed": 1795108699.8643274
+    },
+    "8ac1709854ef8465289d93c2": {
+      "normalized": "dozens missing after boat carrying migrants sinks off senegal s coast",
+      "observed": 1795108699.8643274
+    },
+    "ecc86219d3f8c4a590a3bae2": {
+      "normalized": "susan smith denied parole again 32 years after drowning her two sons",
+      "observed": 1795108699.8643274
+    },
+    "a03a68f60e13751ae1fc1215": {
+      "normalized": "myanmar committed genocide against rohingya minority top un court rules",
+      "observed": 1795108699.8643274
+    },
+    "9d6972e214dec96afe1d59d8": {
+      "normalized": "israeli military completes ground operation in gaza beyond yellow line",
+      "observed": 1795108699.8643274
+    },
+    "be20279ebc64b8239ef52e47": {
+      "normalized": "amazon launches in app push against mamdani backed delivery bill in new york city",
+      "observed": 1795108699.8643274
+    },
+    "24201fa62677277af553c31f": {
+      "normalized": "palo alto stock jumps on earnings beat and company s big bet on securing open weight models",
+      "observed": 1795108699.8643274
+    },
+    "e421a3f1bdf71860d2cc7157": {
+      "normalized": "amd falls on short seller report of alleged china exposure",
+      "observed": 1795108699.8643274
+    },
+    "e24289ab744bf99b27a7fe32": {
+      "normalized": "ai demand will push up interest rates around the world imf head warns",
+      "observed": 1795108699.8643274
+    },
+    "bc188eff8adeb2360e61e21c": {
+      "normalized": "anthropic valued at 2tn as shares surge 34 as trading begins business live",
+      "observed": 1795108699.8643274
+    },
+    "ce5fb588918916e9d188370a": {
+      "normalized": "uk eu reset talks will go down to the wire as crunch summit approaches",
+      "observed": 1795108699.8643274
+    },
+    "c57a36e358c9f8948bc0e548": {
+      "normalized": "new page in history xi trump and putin summit was more of a footnote",
+      "observed": 1795108699.8643274
+    },
+    "9a5538da0c05fd9b84695ed6": {
+      "normalized": "china russia and us agree peace declaration with no mention of ukraine and iran wars",
+      "observed": 1795108699.8643274
+    },
+    "05d49cf0e8e365e636ba5e5f": {
+      "normalized": "spiked nightcaps and invitations to strangers how philip young sexually abused his wife for 15 years",
+      "observed": 1795108699.8643274
+    },
+    "1284f501981ded185ee43815": {
+      "normalized": "it stings to come close louisiana democrat s narrow failure to make it 57 senate seats",
+      "observed": 1795108699.8643274
+    },
+    "a04f9cc3cd87abaf6cdbb0ac": {
+      "normalized": "four uk men convicted of sexual assault and rape of drugged woman at invitation of husband",
+      "observed": 1795108699.8643274
+    },
+    "3ed6e9c28f38ae0a55426780": {
+      "normalized": "prosecutors allege british woman trying to find someone who would kill her lured to us and murdered",
+      "observed": 1795108699.8643274
+    },
+    "7b3e8689800d832fd7fe69f5": {
+      "normalized": "everyone struggled for this justice tears in court as rohingya vindicated in myanmar genocide ruling",
+      "observed": 1795108699.8643274
+    },
+    "1355ecb818b176793edb6fec": {
+      "normalized": "southern california braced for fierce storm after record rain in san francisco",
+      "observed": 1795108699.8643274
+    },
+    "72fc1cb0cb1c4a06fe65396a": {
+      "normalized": "take temperature down over guidance on single sex spaces head of uk equalities body urges",
+      "observed": 1795108699.8643274
+    },
+    "d1ce193845c612ac14fc4f38": {
+      "normalized": "election date brexit reset outcome farage s survival chances andrew sparrow answers your questions",
+      "observed": 1795108699.8643274
+    },
+    "d09689da092d85eb2b1a950c": {
+      "normalized": "cap all political donations not only those from overseas burnham told",
+      "observed": 1795108699.8643274
+    },
+    "4b221bd9ac4ca78ee0234158": {
+      "normalized": "hakeem jeffries on brink of house history as he tells democrats to fight maga not each other us politics live",
+      "observed": 1795108699.8643274
+    },
+    "355ac9b4c8c536a8cf234d8a": {
+      "normalized": "ukraine allies warn yalta format will not bring about peace europe live",
+      "observed": 1795108699.8643274
     }
   },
   "pending": []
