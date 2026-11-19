@@ -27,50 +27,6 @@
     }
   },
   "seen": {
-    "13fa73fb75d88e779f1f5342": {
-      "normalized": "not the answer labour mps speak out against rosebank as decision looms",
-      "observed": 1794435576.1763015
-    },
-    "e53de73374d3b63a19e003f3": {
-      "normalized": "clashes erupt in barcelona after thousands join spain general strike",
-      "observed": 1794435576.1763015
-    },
-    "9f919991c5abbc7a81c3f8c7": {
-      "normalized": "poundland set for more time to secure a rescue deal as emergency talks continue",
-      "observed": 1794435576.1763015
-    },
-    "e77cc76fec488c678a750380": {
-      "normalized": "african writing award probe finds no evidence winning story was ai generated",
-      "observed": 1794435576.1763015
-    },
-    "8317ac8dfa287a8177af4956": {
-      "normalized": "coreweave soars more than 24 for best day since april 2025 after strong q3 report",
-      "observed": 1794435576.1763015
-    },
-    "c9dd9084ccf2ab59ca562157": {
-      "normalized": "nvidia hires leading us law firm to investigate jensen huang s relationship",
-      "observed": 1794435576.1763015
-    },
-    "152e879a4f01c7c590d64ebb": {
-      "normalized": "17 year old charged in fatal bronx shooting of 15 year old boy",
-      "observed": 1794435576.1763015
-    },
-    "42fcbb541604ddda1769d548": {
-      "normalized": "driver faces dui and murder charges after three killed in la crash officials say",
-      "observed": 1794435576.1763015
-    },
-    "84a8da12e8f83b6bfced9bcb": {
-      "normalized": "human torso found on sofa in sydney bushland prompts homicide investigation",
-      "observed": 1794435576.1763015
-    },
-    "d6e9e3d1001ee40496780342": {
-      "normalized": "democrats lambast absent peers after republicans block hegseth impeachment attempt",
-      "observed": 1794435576.1763015
-    },
-    "ef2eb52707e4c473dcfb9bc1": {
-      "normalized": "hegseth and team reprimanded by arlington national cemetery guard trump defends his defense secretary and iran war live",
-      "observed": 1794435576.1763015
-    },
     "f3f3b62be2091a1556fc22bc": {
       "normalized": "nigeria s president launches re election manifesto but can he regain voters trust",
       "observed": 1794453498.9111807
@@ -1814,6 +1770,110 @@
     "b149518991725a44bb4b8d0f": {
       "normalized": "bacterial toxin produced by e coli leading suspect in rise in bowel cancer among under 50s",
       "observed": 1795024649.2857444
+    },
+    "3ab69a0ad53e4bd75d2a0a34": {
+      "normalized": "can anthropic s record breaking ipo stop the ai bubble bursting",
+      "observed": 1795047312.233593
+    },
+    "e23d64e5eb0de111dd88d30e": {
+      "normalized": "gilts v kilts what is happening with scottish government bonds",
+      "observed": 1795047312.233593
+    },
+    "428c3386999107fb1d42512d": {
+      "normalized": "the seven anthropic founders who are about to become multi billionaires",
+      "observed": 1795047312.233593
+    },
+    "9f22258b4066b90d4c2d7394": {
+      "normalized": "claude maker anthropic poised for 1 4tn stock market debut",
+      "observed": 1795047312.233593
+    },
+    "0b5a67bedc9a47c3a984a4f6": {
+      "normalized": "mcdonald s sex abuse they were waiting for the younger girls to turn 18",
+      "observed": 1795047312.233593
+    },
+    "4f228b45d5fad6a1bfd6bd3d": {
+      "normalized": "catherine visits mumbai maternity hospital on the last day of royal trip",
+      "observed": 1795047312.233593
+    },
+    "1264e62d7dc4a9641f05dbb5": {
+      "normalized": "israeli military launches rare ground operation in gaza beyond yellow line",
+      "observed": 1795047312.233593
+    },
+    "81357a1b5b4cdc78459878e8": {
+      "normalized": "myanmar faces historic genocide verdict at un court over rohingya massacres",
+      "observed": 1795047312.233593
+    },
+    "c0671ddb830965ff28668230": {
+      "normalized": "russian man accused of spying on us tech defence company that assists ukraine",
+      "observed": 1795047312.233593
+    },
+    "615e6258712d45d758857d19": {
+      "normalized": "one of ai s most notorious doomers stands to make billions in anthropic s ipo",
+      "observed": 1795047312.233593
+    },
+    "72daf678d957212dda39ab22": {
+      "normalized": "retail investor enthusiasm for anthropic ipo to rival spacex debut",
+      "observed": 1795047312.233593
+    },
+    "5785e8831f41e545dd625279": {
+      "normalized": "anthropic ipo raises over 81 billion in largest offering on record topping spacex",
+      "observed": 1795047312.233593
+    },
+    "9583f86fe859c402d7744634": {
+      "normalized": "nvidia interim ceo kress tells employees let s move forward at first all hands meeting since jensen huang exit",
+      "observed": 1795047312.233593
+    },
+    "521fad0deb90ca275ed837e0": {
+      "normalized": "jim cramer says nvidia has a new problem and it has nothing to do with earnings",
+      "observed": 1795047312.233593
+    },
+    "48f696d8ec70f9e097752104": {
+      "normalized": "palo alto inks 4 5 billion deal for ai startup applied compute shares pop 7 on earnings",
+      "observed": 1795047312.233593
+    },
+    "8156a9c07fe19ad984871531": {
+      "normalized": "microsoft ceo satya nadella calls outlook outage a perfect storm here s what went wrong",
+      "observed": 1795047312.233593
+    },
+    "ec55e2a2f4d4c588e12d7d7f": {
+      "normalized": "member of anti migrant group found guilty of staffordshire murder",
+      "observed": 1795047312.233593
+    },
+    "a1b6ed955c93a729ac20b1a4": {
+      "normalized": "anthropic sets share price at 83 for stock market debut above expected range",
+      "observed": 1795047312.233593
+    },
+    "ee288bb670348914dcf2993f": {
+      "normalized": "waymo pulls driverless taxis from freeways across the us after california ban",
+      "observed": 1795047312.233593
+    },
+    "e45fc892d69380ddb9da9c5e": {
+      "normalized": "leaseholders in england and wales to have ground rent capped in 2028",
+      "observed": 1795047312.233593
+    },
+    "71a78c135f6f1cdb585f1342": {
+      "normalized": "florida pastor found guilty over 2021 assassination of haitian president",
+      "observed": 1795047312.233593
+    },
+    "67e836e5c4d0507955f375a6": {
+      "normalized": "eu proposes 45bn loan for ukraine to avert cash crisis and boost defences",
+      "observed": 1795047312.233593
+    },
+    "707dba35f716f548947cf7b5": {
+      "normalized": "gta 6 dazzles gamers in australia with fully lived in breathable world",
+      "observed": 1795047312.233593
+    },
+    "34361e788dc0ee1019f94a06": {
+      "normalized": "israeli tanks cross yellow line boundary into hamas controlled central gaza",
+      "observed": 1795047312.233593
+    },
+    "1ef64162e45992602dbcdd41": {
+      "normalized": "mike lynch s superyacht had unidentified vulnerability to high winds report finds",
+      "observed": 1795047312.233593
+    },
+    "7523ed452354f739918df8ee": {
+      "normalized": "trump s transportation secretary blames contractor for nationwide faa ground stop live",
+      "observed": 1795047312.233593
     }
   },
   "pending": []
