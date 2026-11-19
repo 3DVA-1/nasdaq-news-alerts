@@ -27,62 +27,6 @@
     }
   },
   "seen": {
-    "f3f3b62be2091a1556fc22bc": {
-      "normalized": "nigeria s president launches re election manifesto but can he regain voters trust",
-      "observed": 1794453498.9111807
-    },
-    "3d99557f2728cc3c132599b9": {
-      "normalized": "democrat scott colom seals historic win in mississippi senate race",
-      "observed": 1794453498.9111807
-    },
-    "0542ce31e42c5914710261e9": {
-      "normalized": "new york building collapse kills one person and injures 12",
-      "observed": 1794453498.9111807
-    },
-    "f2cc9344cf14aa5c12ae39fd": {
-      "normalized": "australian teen missing in bush for six days rescued alive",
-      "observed": 1794453498.9111807
-    },
-    "41ea8d2ef3d4d0e102b60361": {
-      "normalized": "nvidia prepares to oust jensen huang wsj reports stock sinks",
-      "observed": 1794453498.9111807
-    },
-    "f553187d13b916e4f099253e": {
-      "normalized": "meta head of infrastructure will leave and be succeeded by former aws cloud exec",
-      "observed": 1794453498.9111807
-    },
-    "7a2c9c715005e357de2f2881": {
-      "normalized": "australian states could sue tobacco companies for billions in healthcare costs under proposal",
-      "observed": 1794453498.9111807
-    },
-    "eadd719eeb87f4f7a3000553": {
-      "normalized": "brooklyn building collapse kills at least two people and traps others in wreckage",
-      "observed": 1794453498.9111807
-    },
-    "4ca5bbb65c47291b0be4f735": {
-      "normalized": "australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
-      "observed": 1794453498.9111807
-    },
-    "726ab88c82836cc7604d3d54": {
-      "normalized": "beau lamarre condon admits throwing jesse baird s phone off a bridge after alleged murders trial hears",
-      "observed": 1794453498.9111807
-    },
-    "fd2b1e8a2b1b7490a8f925d0": {
-      "normalized": "nvidia board reportedly meeting to decide ceo jensen huang s future as chip giant s share price plunges follow live",
-      "observed": 1794453498.9111807
-    },
-    "e7e7b28db5dbcee552c586b6": {
-      "normalized": "oil slicks seen from space the devastating impact of boat strikes on fragile gulf ecosystems",
-      "observed": 1794453498.9111807
-    },
-    "afe115f66e300f96c2ea8c53": {
-      "normalized": "historic us ocean liner sinks near florida to become world s largest artificial reef",
-      "observed": 1794453498.9111807
-    },
-    "fbf344b10d14a1a9dc271e87": {
-      "normalized": "democrat scott colom to be first black senator elected in mississippi since 1874 after narrow win us politics live",
-      "observed": 1794453498.9111807
-    },
     "c46d69f2e6b6a3f8f88d94ca": {
       "normalized": "some under 25s should get fewer benefits milburn review to say",
       "observed": 1794483917.2217007
@@ -1874,6 +1818,62 @@
     "7523ed452354f739918df8ee": {
       "normalized": "trump s transportation secretary blames contractor for nationwide faa ground stop live",
       "observed": 1795047312.233593
+    },
+    "f1c60b606bd49008fd82dc04": {
+      "normalized": "leftover pumpkins help deliver 1 000th free meal",
+      "observed": 1795074655.4837084
+    },
+    "3c985654e3a70c6910fd7516": {
+      "normalized": "increase in direct cremations since pandemic",
+      "observed": 1795074655.4837084
+    },
+    "11b2073954294ec0ecc7bd72": {
+      "normalized": "crimean bridge attacked again russia says",
+      "observed": 1795074655.4837084
+    },
+    "44a9dede9f7e22f6da0b5a22": {
+      "normalized": "musk accuses zelenskyy of lying about starshield restrictions in ukraine",
+      "observed": 1795074655.4837084
+    },
+    "ca048ac353e54117f9ed4cbf": {
+      "normalized": "hannah lillith assadi wins national book award for visionary novel paradiso 17",
+      "observed": 1795074655.4837084
+    },
+    "a0cdde53e570728e79239a72": {
+      "normalized": "datacentres to create 70 more carbon emissions by 2030 iea report warns",
+      "observed": 1795074655.4837084
+    },
+    "cafc4aef166f8509586e22e0": {
+      "normalized": "weight loss drugs used in nearly one in 10 homes in great britain study finds",
+      "observed": 1795074655.4837084
+    },
+    "cdfccc0b0efb4ba20caa1298": {
+      "normalized": "meet phil the bar tailed godwit tracked on a 6 800 mile round trip to siberia",
+      "observed": 1795074655.4837084
+    },
+    "1ff5eeb2bb1a046ada452ee9": {
+      "normalized": "remarkable luck wreck of first australian built warship discovered exactly 128 years after sinking",
+      "observed": 1795074655.4837084
+    },
+    "01410254654d8438939c3440": {
+      "normalized": "tulip siddiq says she is considering legal action against former bangladesh leader",
+      "observed": 1795074655.4837084
+    },
+    "d4eea58646c9cfde7a2f8838": {
+      "normalized": "car use in london forecast to rise by 10 in next decade",
+      "observed": 1795074655.4837084
+    },
+    "24fdecc3b11e41ec43607828": {
+      "normalized": "mother whose twin baby died was determined to have home birth despite advice of experts nsw inquest hears",
+      "observed": 1795074655.4837084
+    },
+    "8a04d72b8c7cb8ffbbbab0d3": {
+      "normalized": "tammy shipley was supposed to be monitored in prison instead she died after drinking 20l of water",
+      "observed": 1795074655.4837084
+    },
+    "64bdcb2b6184b090f0c6821a": {
+      "normalized": "violent protests and killings in bangladesh ahead of exiled sheikh hasina s planned return",
+      "observed": 1795074655.4837084
     }
   },
   "pending": []
