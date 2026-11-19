@@ -27,118 +27,6 @@
     }
   },
   "seen": {
-    "4c097370d26666ac14da5b3a": {
-      "normalized": "federal reserve announces revised tentative schedule of federal open market committee meetings in 2027",
-      "observed": 1794512987.7314837
-    },
-    "bb8a2087db06a41c49a0ab0e": {
-      "normalized": "the rise and fall of jensen huang how the tech superstar became mired in scandal",
-      "observed": 1794512987.7314837
-    },
-    "2a5294161682733c4fad6030": {
-      "normalized": "us envoys head to meet zelensky after talks with putin in moscow",
-      "observed": 1794512987.7314837
-    },
-    "0f96da93923eff62bff0c175": {
-      "normalized": "hegseth awards medal to war memorial guard who reprimanded him and group",
-      "observed": 1794512987.7314837
-    },
-    "3ca3c9d339c3af22387332f9": {
-      "normalized": "suspected bomb hoax threats force fresh evacuations of italian schools",
-      "observed": 1794512987.7314837
-    },
-    "6288992bb6740cb5df5fce97": {
-      "normalized": "jensen huang has resigned what s next for nvidia",
-      "observed": 1794512987.7314837
-    },
-    "b4f674e6345bea6ec8232e00": {
-      "normalized": "coinbase ceo says industry collaboration can help contain fallout from hacks like binance breach",
-      "observed": 1794512987.7314837
-    },
-    "fc3b1365b459f6bc1c045d14": {
-      "normalized": "jensen huang s exit from nvidia raises critical questions about the future of ai",
-      "observed": 1794512987.7314837
-    },
-    "d05cac9a85a48525879e52d6": {
-      "normalized": "nebius falls 16 as company expects increased 2026 capex spend issues weak outlook",
-      "observed": 1794512987.7314837
-    },
-    "ed0c00c6e9ba17d869c59142": {
-      "normalized": "who is colette kress nvidia s finance chief steps in as interim ceo after huang exit",
-      "observed": 1794512987.7314837
-    },
-    "7dddeb7b4f2a19861be7696d": {
-      "normalized": "here s what nvidia interim ceo colette kress and board chair harvey jones wrote to nvidia employees",
-      "observed": 1794512987.7314837
-    },
-    "c9a038b6acef39e2f9051172": {
-      "normalized": "nvidia stock pares morning losses after ceo jensen huang announces resignation",
-      "observed": 1794512987.7314837
-    },
-    "f3ec3a380495edd7732a1751": {
-      "normalized": "a dark day for nvidia here s what analysts have been saying about jensen huang s departure",
-      "observed": 1794512987.7314837
-    },
-    "b65b229462c3469742f1802f": {
-      "normalized": "home sales hit 16 year low in october amid record high mortgage rates",
-      "observed": 1794512987.7314837
-    },
-    "9c35e6e16104f4b016261b9a": {
-      "normalized": "nvidia s jensen huang to testify to us congress amid scandal reports say as cfo colette kress replaces him as interim ceo follow live",
-      "observed": 1794512987.7314837
-    },
-    "39c0d8a3aae34c3d8a13c29d": {
-      "normalized": "local funds for some young people losing pip under milburn plans",
-      "observed": 1794512987.7314837
-    },
-    "cf1c47991094923ed8370323": {
-      "normalized": "new talks with russia ukraine and european countries agreed us says as it happened",
-      "observed": 1794512987.7314837
-    },
-    "a6466444b12db233a97871ba": {
-      "normalized": "finland bars russian athletes from entering country over ukraine war",
-      "observed": 1794512987.7314837
-    },
-    "c2332d7b051cb1affd85576a": {
-      "normalized": "putin takes hard line in us talks as ukraine says starlink disrupted again",
-      "observed": 1794512987.7314837
-    },
-    "a3b9f839e5e0df5f288e0757": {
-      "normalized": "duran duran drummer roger taylor leaves band due to tinnitus",
-      "observed": 1794512987.7314837
-    },
-    "023df840d0df1ae955026024": {
-      "normalized": "sadiq khan joins labour figures urging pm not to water down electric vehicle targets as it happened",
-      "observed": 1794512987.7314837
-    },
-    "4a447ffa803c5ecb1ce3a4dd": {
-      "normalized": "lewis hamilton says israel s genocide in gaza is appalling after rafah visit",
-      "observed": 1794512987.7314837
-    },
-    "843ed64ad3bc1d8e991fed73": {
-      "normalized": "uk ministers look at quick ways to limit ndas after walliams allegations",
-      "observed": 1794512987.7314837
-    },
-    "7e55d9a1b4ca4e7d736f48a6": {
-      "normalized": "former death row prisoners call byron donalds to halt future florida executions",
-      "observed": 1794512987.7314837
-    },
-    "3115ca3ea55d2e218fff69a0": {
-      "normalized": "trump says no deal needed on iran war and orders vance to focus on domestic issues",
-      "observed": 1794512987.7314837
-    },
-    "32c90c7eba0d5da37c5c718c": {
-      "normalized": "washington dc shooting suspect confirmed dead after one person is killed and four injured latest updates",
-      "observed": 1794512987.7314837
-    },
-    "24dda3c010711786c8173e1b": {
-      "normalized": "two men found guilty of helping iran try to eliminate uk based journalists",
-      "observed": 1794512987.7314837
-    },
-    "7275e25017c410a467eb231b": {
-      "normalized": "hegseth gives medal to guard who reprimanded him at arlington national cemetery us politics live",
-      "observed": 1794512987.7314837
-    },
     "e0316b7ba8925cee2a033891": {
       "normalized": "scandal hit nvidia ceo jensen huang quits plunging ai chipmaking giant into turmoil",
       "observed": 1794531591.342425
@@ -1878,6 +1766,94 @@
     "355ac9b4c8c536a8cf234d8a": {
       "normalized": "ukraine allies warn yalta format will not bring about peace europe live",
       "observed": 1795108699.8643274
+    },
+    "b375ed3d771e76d4f455be4c": {
+      "normalized": "anthropic becomes one of world s most valuable public companies in stock market debut",
+      "observed": 1795131992.9430132
+    },
+    "82a061c551f36aa35107758e": {
+      "normalized": "europe ready for talks with russia on ending war in ukraine leaders say",
+      "observed": 1795131992.9430132
+    },
+    "7abc665ad6495572ab0bc0bd": {
+      "normalized": "judge finds thomas markle mentally fit to stand trial on child abuse charges",
+      "observed": 1795131992.9430132
+    },
+    "22901fe697890ca1926ec406": {
+      "normalized": "from premature baby to social media star famed hippo fiona dies",
+      "observed": 1795131992.9430132
+    },
+    "311ea7393de1048f0adfc3d9": {
+      "normalized": "california probing whether china improperly acquired nvidia technology",
+      "observed": 1795131992.9430132
+    },
+    "57e5cf09469a6ee0e3a715b5": {
+      "normalized": "trump posthumously pardons us baseball legend pete rose",
+      "observed": 1795131992.9430132
+    },
+    "6d3de3e3e196e9a2f8a15779": {
+      "normalized": "cumin laced fizzy sodas are giving cola giants a tough fight in india",
+      "observed": 1795131992.9430132
+    },
+    "af5433f7f1153b91a6b16134": {
+      "normalized": "fiona the hippo dies after swallowing a hat at cincinnati zoo",
+      "observed": 1795131992.9430132
+    },
+    "8493838617312146cae2edd3": {
+      "normalized": "amd dives on short seller report of alleged china exposure",
+      "observed": 1795131992.9430132
+    },
+    "0dc6acc2cd90459fc30f9cd2": {
+      "normalized": "intuit to sell mailchimp to bending spoons for 3 68 billion",
+      "observed": 1795131992.9430132
+    },
+    "ea604d8c2669ed88e22ef996": {
+      "normalized": "commerce approved sales of more than 879 000 ai chips to chinese companies rep mast says",
+      "observed": 1795131992.9430132
+    },
+    "10664030d8b1263e874f2721": {
+      "normalized": "anthropic closes first day of public trading at 1 3tn valuation after largest ever ipo",
+      "observed": 1795131992.9430132
+    },
+    "fe6462690f8133bfa883fa5f": {
+      "normalized": "guardian australia takes home two walkley awards for excellence in journalism",
+      "observed": 1795131992.9430132
+    },
+    "05d82725448db1ad8e4c771e": {
+      "normalized": "protesters rally against anthropic in new york and san francisco after 2tn stock market debut",
+      "observed": 1795131992.9430132
+    },
+    "a4ba48f308f36de483f8c628": {
+      "normalized": "appeals court rejects democrat lamonica mciver s bid to toss charges over ice protest",
+      "observed": 1795131992.9430132
+    },
+    "ea6e5f8858fde984c952b4c9": {
+      "normalized": "thomas markle meghan s father is competent to face child sex abuse images case",
+      "observed": 1795131992.9430132
+    },
+    "c88d3e13d0a01bda81a5ad9e": {
+      "normalized": "fiona the hippo dies after ingesting knitted hat at cincinnati zoo",
+      "observed": 1795131992.9430132
+    },
+    "2c48ad8c83a4e1924635318f": {
+      "normalized": "mark speakman resigns and says liberals face existential threat as nsw exodus continues",
+      "observed": 1795131992.9430132
+    },
+    "62215190078b1d6d11a1699f": {
+      "normalized": "california s top lawyer subpoenas nvidia over jensen huang s affair with suspected chinese spy live",
+      "observed": 1795131992.9430132
+    },
+    "cb8ee491adf3b1832f295ddf": {
+      "normalized": "howard era minister sharman stone dies via voluntary assisted dying aged 75",
+      "observed": 1795131992.9430132
+    },
+    "acf007edac5f8c123e5ea08f": {
+      "normalized": "florida to carry out record breaking 20th execution of the year",
+      "observed": 1795131992.9430132
+    },
+    "fb53fada349ca6de0339f733": {
+      "normalized": "an elevator a brick wall and a bathroom scientists use gravity to send practically unblockable message",
+      "observed": 1795131992.9430132
     }
   },
   "pending": []
