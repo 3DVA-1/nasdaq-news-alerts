@@ -27,62 +27,6 @@
     }
   },
   "seen": {
-    "db70c802510a14c1ad50e819": {
-      "normalized": "cider makers fear future for orchards as costs grow",
-      "observed": 1794556124.0094209
-    },
-    "692850a48a145fb74cceaf42": {
-      "normalized": "politicians back focus on cost of living",
-      "observed": 1794556124.0094209
-    },
-    "37097f2da371aabf2133de5a": {
-      "normalized": "what we know about the global microsoft outage",
-      "observed": 1794556124.0094209
-    },
-    "b6596f9809549190ebce40ca": {
-      "normalized": "nvidia on track for longest weekly losing streak since 2012 as market value sinks by 1 6 trillion",
-      "observed": 1794556124.0094209
-    },
-    "d226831bf1fa404a97021d50": {
-      "normalized": "why singapore keeps turning up in the fight over nvidia chips and china",
-      "observed": 1794556124.0094209
-    },
-    "89b80ae4eb7af391e7a064ba": {
-      "normalized": "minister s office said contractor should handle cfmeu or lose work in victoria big build inquiry hears",
-      "observed": 1794556124.0094209
-    },
-    "7c6f3d5831ac66cbc2b029c4": {
-      "normalized": "more than 60 of germany s female soldiers report harassment or abuse",
-      "observed": 1794556124.0094209
-    },
-    "7646eabdae5fb2044f5b44b5": {
-      "normalized": "if i wanted to plan a murder beau lamarre condon tells court what he would have done",
-      "observed": 1794556124.0094209
-    },
-    "57aecae596ffb95c8ba5ee5a": {
-      "normalized": "boxer on death row in iran vows not to bow before oppression after winning rights prize",
-      "observed": 1794556124.0094209
-    },
-    "2e838c942c415de4b784edcd": {
-      "normalized": "children s exposure to home wood burning could be as significant as traffic exhaust study suggests",
-      "observed": 1794556124.0094209
-    },
-    "536cf9e6478e7dd33c557ecb": {
-      "normalized": "victoria election 2026 labor and greens trade accusations of dodgy deals as preference fight puts key seats at risk",
-      "observed": 1794556124.0094209
-    },
-    "121a037ad7ffc29d3b5df518": {
-      "normalized": "nvidia scandal sparks us national security furore and calls to take tough line on china",
-      "observed": 1794556124.0094209
-    },
-    "d2343c48b128e7a591f04976": {
-      "normalized": "calls for crackdown on china chip exports as it happened",
-      "observed": 1794556124.0094209
-    },
-    "e54d0507007dec68322cd199": {
-      "normalized": "a baffling trail from australia to singapore what is megaspeed the company implicated in downfall of nvidia s jensen huang",
-      "observed": 1794556124.0094209
-    },
     "cf1a5ee983b0c167c65851d6": {
       "normalized": "shoplifters stealing to order in scottish shops",
       "observed": 1794586173.5848162
@@ -1842,6 +1786,134 @@
     "514c8b536f2315ee902f7e31": {
       "normalized": "baby born with heart abnormalities didn t have a chance after non medical free birth nsw inquest hears",
       "observed": 1795158002.6276257
+    },
+    "50d82c67a0c7fb9dbe3e2666": {
+      "normalized": "waller opening remarks",
+      "observed": 1795190547.8897214
+    },
+    "362957ab9ad6f37274865229": {
+      "normalized": "activities of u s multinational enterprises 2024",
+      "observed": 1795190547.8897214
+    },
+    "ea04b6c0ca6d7375a6763a21": {
+      "normalized": "gta 6 drives spike in download demand as estimated sales top 2 3bn",
+      "observed": 1795190547.8897214
+    },
+    "c1e268a378653634486b3de0": {
+      "normalized": "thousands join cost of living protests across europe",
+      "observed": 1795190547.8897214
+    },
+    "0184fb9908c64b32ca319fea": {
+      "normalized": "the secret cyber scramble to protect uk fridge freezers",
+      "observed": 1795190547.8897214
+    },
+    "2e079537207a5520841dcfb6": {
+      "normalized": "could you spot a fake banknote",
+      "observed": 1795190547.8897214
+    },
+    "d9db42f64ca78ab67d8498f2": {
+      "normalized": "anthropic shares fall a day after blockbuster opening",
+      "observed": 1795190547.8897214
+    },
+    "486476f27d3c2575aaf45455": {
+      "normalized": "airbnb s divisive new house rules come into force",
+      "observed": 1795190547.8897214
+    },
+    "354d194ea57f757186e2f2b8": {
+      "normalized": "white house removes cyber security chief after series of tech outages",
+      "observed": 1795190547.8897214
+    },
+    "99adf6e4803184e057acc414": {
+      "normalized": "russian missile hits poland as ukraine s allies hold military exercise says tusk",
+      "observed": 1795190547.8897214
+    },
+    "f7e64773fe45f0aaab2a631a": {
+      "normalized": "nearly 600 women killed in south africa within three months",
+      "observed": 1795190547.8897214
+    },
+    "6a8546304673954048d5331d": {
+      "normalized": "anthropic defies the odds holding record ipo despite massively disruptive market",
+      "observed": 1795190547.8897214
+    },
+    "7ef673b97f9eb76aa841ef7d": {
+      "normalized": "spacex s subsidiary cursor tells lawmakers it s considering phasing out chinese ai models",
+      "observed": 1795190547.8897214
+    },
+    "142354589477ab9b4bc2a62b": {
+      "normalized": "bitcoin suffered identical sell off pattern ahead of anthropic spacex ipos what happens next",
+      "observed": 1795190547.8897214
+    },
+    "9430dc6b89032c81ee18a714": {
+      "normalized": "bitcoin s regulation bull case is played out what could drive crypto gains moving forward",
+      "observed": 1795190547.8897214
+    },
+    "96a5cd98943ec6fa86cffe9c": {
+      "normalized": "anthropic raises 93 5 billion total as underwriters scoop up greenshoe overallotment",
+      "observed": 1795190547.8897214
+    },
+    "6475885906f00587f73bfa4f": {
+      "normalized": "anthropic stock falls 10 in first full day of trading amid ai sell off",
+      "observed": 1795190547.8897214
+    },
+    "b13de5da4920669bfcdadca0": {
+      "normalized": "anthropic shares slide as ai sell off hits global markets as it happened",
+      "observed": 1795190547.8897214
+    },
+    "4d322b35c3848650dc5933e0": {
+      "normalized": "judge says ice made a mockery of court orders with instant re arrest policy",
+      "observed": 1795190547.8897214
+    },
+    "4fa854e3042b19560331c23e": {
+      "normalized": "mahmood smells a rat over housing provision for vulnerable people in birmingham",
+      "observed": 1795190547.8897214
+    },
+    "ac668a19c18a4e97110fcffd": {
+      "normalized": "as the coalition stares down one nation in nsw a new threat is rising the teals",
+      "observed": 1795190547.8897214
+    },
+    "6fabc84a34b65571face8448": {
+      "normalized": "pontins owner fined 1m over death of woman at somerset holiday park",
+      "observed": 1795190547.8897214
+    },
+    "d700ee4dccff925a30f9fba9": {
+      "normalized": "gloucestershire nouveau uk vineyard uncorks its 2026 answer to beaujolais",
+      "observed": 1795190547.8897214
+    },
+    "de730dae5b6cc843e9406761": {
+      "normalized": "a source of inspiration series of public events celebrate life of dolores huerta",
+      "observed": 1795190547.8897214
+    },
+    "22fb39198733fc0e1de5fdeb": {
+      "normalized": "you can t get experience if no one s employing you the vicious circle facing blackpool s neets",
+      "observed": 1795190547.8897214
+    },
+    "09f1534c5b5f3861cc3e7932": {
+      "normalized": "forever our fiona fans of the famous hippo mourn her death at zoo",
+      "observed": 1795190547.8897214
+    },
+    "e6f8d8fb49dd7ad753733f09": {
+      "normalized": "far right activist daniel thomas jailed for slashing dinghy in channel",
+      "observed": 1795190547.8897214
+    },
+    "3fa2d8d4b11c8ad61f1b22af": {
+      "normalized": "us senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "observed": 1795190547.8897214
+    },
+    "1a8106fb16a33c949a4ca3f1": {
+      "normalized": "young people across europe stage coordinated fight for our future protests",
+      "observed": 1795190547.8897214
+    },
+    "2647d5d5ca9a0a209dadd1b8": {
+      "normalized": "us army postpones plan to detonate bomb making chemical amid outcry",
+      "observed": 1795190547.8897214
+    },
+    "aa5a1f2a75a463d8f597c5d7": {
+      "normalized": "anthropic shares slump on second day of trading as markets reel ai sell off",
+      "observed": 1795190547.8897214
+    },
+    "58e33923fbf793048d8a955b": {
+      "normalized": "eu wants closest possible relationship with uk after agreeing brexit reset deal live",
+      "observed": 1795190547.8897214
     }
   },
   "pending": []
