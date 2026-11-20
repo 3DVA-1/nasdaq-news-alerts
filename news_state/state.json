@@ -27,182 +27,6 @@
     }
   },
   "seen": {
-    "cf1a5ee983b0c167c65851d6": {
-      "normalized": "shoplifters stealing to order in scottish shops",
-      "observed": 1794586173.5848162
-    },
-    "3cd8c1e3f2add8926af94719": {
-      "normalized": "why is the microsoft outage lasting so long",
-      "observed": 1794586173.5848162
-    },
-    "dc4d64f55bec851e95f8fbaf": {
-      "normalized": "bessent blames lutnick s commerce department for failing to block megaspeed",
-      "observed": 1794586173.5848162
-    },
-    "52bba3da1bc1b8a58290a5c6": {
-      "normalized": "cftc chair selig tells cnbc crypto industry is embracing agency rules as legislation hopes fade",
-      "observed": 1794586173.5848162
-    },
-    "870f0b8fe206ae060942a341": {
-      "normalized": "jensen huang scandal casts doubt on nvidia s ai dominance how we got here",
-      "observed": 1794586173.5848162
-    },
-    "7409123febad144b1c5d3b7c": {
-      "normalized": "cisco beats on earnings says ai infrastructure revenue will double this fiscal year",
-      "observed": 1794586173.5848162
-    },
-    "9c5bc2c285b0f3fc18bbd7b4": {
-      "normalized": "nvidia stock sinks 2 in fallout from jensen huang resignation",
-      "observed": 1794586173.5848162
-    },
-    "222d5fb2fd183a607ac701d4": {
-      "normalized": "apple alphabet and uber survived major founder transitions nvidia will be a harder test",
-      "observed": 1794586173.5848162
-    },
-    "75b5f1bafce87dd839985f0d": {
-      "normalized": "microsoft says email queues approaching normal levels as outlook issues persist",
-      "observed": 1794586173.5848162
-    },
-    "feb12afc6a6556d2fdfeecc4": {
-      "normalized": "openai launches chatgpt wallet allowing its dots ai agents to make purchases for users",
-      "observed": 1794586173.5848162
-    },
-    "b4f5432f1a2eb667db717702": {
-      "normalized": "nvidia scandal draws in commerce secretary lutnick who reportedly agrees to testify about china chip sales",
-      "observed": 1794586173.5848162
-    },
-    "c54ec6236da4755cd292fd97": {
-      "normalized": "a global microsoft 365 outage has hit millions what happened and when will it be fixed",
-      "observed": 1794586173.5848162
-    },
-    "0eee7a9db3a0675c5f2fc7a2": {
-      "normalized": "iran says it targeted us military radar in bahrain in retaliatory strike",
-      "observed": 1794586173.5848162
-    },
-    "71da32d8a123422c7eca7b7e": {
-      "normalized": "russia is setting traps in ukraine talks eu foreign policy chief warns",
-      "observed": 1794586173.5848162
-    },
-    "8f0cd387e962b7f320b4d8c8": {
-      "normalized": "banned books from ireland s room of evil literature finally see the light of day",
-      "observed": 1794586173.5848162
-    },
-    "bfe223a196e110f2cc70589a": {
-      "normalized": "nigel farage s security paid for by reform uk despite claim over 5m gift",
-      "observed": 1794586173.5848162
-    },
-    "4b0d0616856080f719dce4f4": {
-      "normalized": "eleanor donaldson wife of former dup leader placed on sex offender register",
-      "observed": 1794586173.5848162
-    },
-    "e812ee4df1cf91ae3e69244f": {
-      "normalized": "microsoft scrambles to fix global outage affecting teams and outlook",
-      "observed": 1794586173.5848162
-    },
-    "2e2751c3bc0d171830df3f56": {
-      "normalized": "doctor named as dc gym shooting suspect confessed noting dispute over living conditions building manager says",
-      "observed": 1794586173.5848162
-    },
-    "8f1ca69ed9333571012eca9c": {
-      "normalized": "tories and reform clash over migration as asylum centre is approved",
-      "observed": 1794586173.5848162
-    },
-    "7784665ca3c7981dfbec6b65": {
-      "normalized": "right to make green challenges to planning decisions under threat say uk lawyers",
-      "observed": 1794586173.5848162
-    },
-    "510d3c8ff05bbc5fb5c70ea4": {
-      "normalized": "row breaks out between tories and reform at piddington news conference as it happened",
-      "observed": 1794586173.5848162
-    },
-    "c8f910c2d0b218df851c0f0f": {
-      "normalized": "scott bessent blames commerce department over delay blacklisting china linked data company us politics live",
-      "observed": 1794586173.5848162
-    },
-    "10e955377f12d8988dea6e2b": {
-      "normalized": "europe should not walk into russia s traps on ukraine talks eu s foreign policy chief kallas says europe live",
-      "observed": 1794586173.5848162
-    },
-    "dc3450925d505d668f008ddc": {
-      "normalized": "pressure grows on trump s commerce secretary lutnick in fallout from nvidia scandal",
-      "observed": 1794607622.6245751
-    },
-    "f8a7108e6f0fe11703ab2bf4": {
-      "normalized": "microsoft deeply sorry for global outage after almost 24 hours of disruption",
-      "observed": 1794607622.6245751
-    },
-    "e14a0d6554275956d5de951e": {
-      "normalized": "nvidia scandal fallout widens as trump s treasury secretary blames cabinet colleague",
-      "observed": 1794607622.6245751
-    },
-    "d443ed1b6f24b7e1473272c5": {
-      "normalized": "lutnick faces questions over nvidia spy scandal his sons firm has deep ties to the chipmaker",
-      "observed": 1794607622.6245751
-    },
-    "0d2dc3bb03595630a9dde200": {
-      "normalized": "nvidia hasn t selected search firm for permanent huang replacement board tells cnbc",
-      "observed": 1794607622.6245751
-    },
-    "b70d62b3ec7e272aa6b1bcce": {
-      "normalized": "nvidia is done with jensen huang the fallout in washington is just beginning",
-      "observed": 1794607622.6245751
-    },
-    "932ae9e6628c07581127248e": {
-      "normalized": "nvidia closes below 4t market cap for first time since july 2025 in huang fallout",
-      "observed": 1794607622.6245751
-    },
-    "53d2c4a5ce24fb6dc383248f": {
-      "normalized": "nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by 1 7 trillion",
-      "observed": 1794607622.6245751
-    },
-    "970c68aa591eb632fb2fbd28": {
-      "normalized": "microsoft outage company deeply sorry for disruption affecting millions and says it s not related to cyber or ai as it happened",
-      "observed": 1794607622.6245751
-    },
-    "00b9974f8ed89f13db12b181": {
-      "normalized": "microsoft outage shakes up companies schools and local governments across us",
-      "observed": 1794607622.6245751
-    },
-    "26accaa59f58099c24e5188c": {
-      "normalized": "walliams allegations prompt calls for staggered age of consent at 16 and 17",
-      "observed": 1794607622.6245751
-    },
-    "2a385f3c6f32153bf0f615f2": {
-      "normalized": "nvidia scandal us treasury chief blames lutnick s commerce department over alleged lack of action",
-      "observed": 1794607622.6245751
-    },
-    "b5cac2dfd22b05de8985ef02": {
-      "normalized": "probation officers in england and wales vote for strike action over pay and workloads",
-      "observed": 1794607622.6245751
-    },
-    "d71195d7d2f5d0bb8ddd5b65": {
-      "normalized": "us air force responds to suspected drone activity at raf lakenheath",
-      "observed": 1794607622.6245751
-    },
-    "b929e64ee6532ccec7f4898d": {
-      "normalized": "as van hollen wages a challenge senate democrats are torn on whom to elect as their leader",
-      "observed": 1794607622.6245751
-    },
-    "4e736151e935d274ee746663": {
-      "normalized": "rip out ugly clutter to help revive uk high streets says thinktank",
-      "observed": 1794607622.6245751
-    },
-    "f37073c49b00a6c0ae8d97bb": {
-      "normalized": "flights grounded at all us airports due to air traffic control communication issue transport secretary says live",
-      "observed": 1794607622.6245751
-    },
-    "c94e59e6b630cc5828c9ca27": {
-      "normalized": "faa issues nationwide ground stop order delaying or canceling nearly 7 000 flights",
-      "observed": 1794607622.6245751
-    },
-    "88909c0b3e8db96db41212b7": {
-      "normalized": "new orleans boat crash tanker collides with river cruise ship carrying more than 130 people latest updates",
-      "observed": 1794607622.6245751
-    },
-    "bfbd0e74105aff4fc6f2b696": {
-      "normalized": "tanker collides with cruise ship on mississippi river in new orleans",
-      "observed": 1794607622.6245751
-    },
     "895cfdc9821643ca03f2c9fd": {
       "normalized": "jefferson new technology old questions productivity puzzles and the macroeconomy",
       "observed": 1794622887.8948534
@@ -1914,6 +1738,74 @@
     "58e33923fbf793048d8a955b": {
       "normalized": "eu wants closest possible relationship with uk after agreeing brexit reset deal live",
       "observed": 1795190547.8897214
+    },
+    "97838cf3a9aeb92f1077a1d5": {
+      "normalized": "anthropic shares fall after blockbuster opening as wider tech sell off continues",
+      "observed": 1795214230.8112833
+    },
+    "302580b60b41a2fa211a7e23": {
+      "normalized": "trump threatens ban on us firms building ai data centres overseas",
+      "observed": 1795214230.8112833
+    },
+    "48452d22a58607dd81301357": {
+      "normalized": "gérard depardieu and french author investigated over sexual allegations",
+      "observed": 1795214230.8112833
+    },
+    "64fee0e270f4e37d18f39e16": {
+      "normalized": "what the new uk eu deal could mean for future post brexit relations",
+      "observed": 1795214230.8112833
+    },
+    "697e1987b3333cd22a1867df": {
+      "normalized": "denmark accuses russia of plotting to assassinate us ukrainian rapper",
+      "observed": 1795214230.8112833
+    },
+    "831fa345d7c3d0c81b803502": {
+      "normalized": "i tell my son it s just fireworks life inside yemeni city besieged by houthis",
+      "observed": 1795214230.8112833
+    },
+    "45ae6a39b99c469943f43ab9": {
+      "normalized": "jensen huang to testify publicly before senate banking panel chairman scott says",
+      "observed": 1795214230.8112833
+    },
+    "778512931ec8be576485b3ad": {
+      "normalized": "trump vows to stop u s companies from building data centers abroad threatens tremendous tax",
+      "observed": 1795214230.8112833
+    },
+    "33d3137b4bef91139019135f": {
+      "normalized": "nvidia stock plunges 14 wraps up longest weekly losing streak since 2008 financial crisis",
+      "observed": 1795214230.8112833
+    },
+    "7a49618da58011b569bdac1b": {
+      "normalized": "anthropic defied the odds in its record ipo now it has to reckon with ai market turbulence",
+      "observed": 1795214230.8112833
+    },
+    "7a664cfa24344ba089c815b4": {
+      "normalized": "anthropic falls nearly 9 in first full day of trading as tech stocks get shellacked",
+      "observed": 1795214230.8112833
+    },
+    "55f7a52fb66123cc34478395": {
+      "normalized": "zscaler stock jumps 18 on report that crowdstrike in talks to buy security vendor",
+      "observed": 1795214230.8112833
+    },
+    "ce0ba770f0346641f42eaded": {
+      "normalized": "trump says he discussed jensen huang with xi bessent tells cnbc nvidia chip export policy is unchanged",
+      "observed": 1795214230.8112833
+    },
+    "3ae20c6f4b85a0da927381d0": {
+      "normalized": "nasdaq erases all 2026 gains as ai sell off dampens anthropic s second day of trading",
+      "observed": 1795214230.8112833
+    },
+    "487fc5446412bd1dcffa589a": {
+      "normalized": "jp morgan boss says he will find ways to offset unfair rise in uk tax on banks",
+      "observed": 1795214230.8112833
+    },
+    "b1d42f3f7028b10817bbd69a": {
+      "normalized": "trump threatens tremendous penalties on us tech firms that build datacenters abroad",
+      "observed": 1795214230.8112833
+    },
+    "f3e78285b915b9705fc64ad5": {
+      "normalized": "french police officers found guilty of racist assault on black music producer",
+      "observed": 1795214230.8112833
     }
   },
   "pending": []
