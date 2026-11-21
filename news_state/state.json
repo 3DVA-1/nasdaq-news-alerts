@@ -27,58 +27,6 @@
     }
   },
   "seen": {
-    "d1353096866ced67e4c2f057": {
-      "normalized": "food bank sees donations drop by 10 each year",
-      "observed": 1794648055.0066795
-    },
-    "d619c57e9e850149733b2613": {
-      "normalized": "microsoft says services fully restored after day long global outage",
-      "observed": 1794648055.0066795
-    },
-    "2e049b6f0f15070e7b4ad262": {
-      "normalized": "what do christmas market traders say about rising prices",
-      "observed": 1794648055.0066795
-    },
-    "43ca1bb5996849119cf722bc": {
-      "normalized": "the rise of housefishing by estate agents",
-      "observed": 1794648055.0066795
-    },
-    "06cd3b3eac05fb9db732f990": {
-      "normalized": "football kit giveaway aims to boost participation",
-      "observed": 1794648055.0066795
-    },
-    "c5fd7a407f24f71a3f4ed998": {
-      "normalized": "what we know about the ground stop and what to do if you re affected",
-      "observed": 1794648055.0066795
-    },
-    "165094930aced9b78bca35bb": {
-      "normalized": "analysis companies love a rockstar ceo until they depend on one",
-      "observed": 1794648055.0066795
-    },
-    "1359b6640b2d5f69e5d7ae82": {
-      "normalized": "microsoft apologizes for massive outage that took down outlook and other 365 services",
-      "observed": 1794648055.0066795
-    },
-    "e9bfbd769c6c88f7955b980b": {
-      "normalized": "bristol aims to become uk s first wetland city and reduce flood risk",
-      "observed": 1794648055.0066795
-    },
-    "415ae687dcd2f2f1e1366b92": {
-      "normalized": "uk eu breakthrough will allow airport style checks at eurotunnel to avoid border chaos",
-      "observed": 1794648055.0066795
-    },
-    "f0753e79cc011d26e8b10210": {
-      "normalized": "hundreds of children in england prescribed weight loss jabs figures show",
-      "observed": 1794648055.0066795
-    },
-    "b0cd226be572db0285f3153a": {
-      "normalized": "tout offers 1m of u2 tickets on stubhub raising questions about bot clampdown",
-      "observed": 1794648055.0066795
-    },
-    "18ad190fcaad801d913cbdf7": {
-      "normalized": "immersive show brings kyffin williams rugged welsh landscapes to life",
-      "observed": 1794648055.0066795
-    },
     "94952c4dcd4e8029905e28f6": {
       "normalized": "second catch attempt for spacex starship rocket",
       "observed": 1794672150.519504
@@ -1758,6 +1706,62 @@
     "9d5e0201724f0a6d57247233": {
       "normalized": "man accused of sparking deadly los angeles wildfire found guilty",
       "observed": 1795233243.1339164
+    },
+    "2bea7a9903113a0f34ddb0e8": {
+      "normalized": "sessions offer advice on rising energy costs",
+      "observed": 1795264196.4370358
+    },
+    "bb217197496b18f5a3e53a39": {
+      "normalized": "fbi reportedly investigating apparent hack of its criminal database",
+      "observed": 1795264196.4370358
+    },
+    "381d168d8b54c99a9e557c9b": {
+      "normalized": "deal with eu not dependent on tuition fees agreement miliband says",
+      "observed": 1795264196.4370358
+    },
+    "f8f278a28f0889385f0046d1": {
+      "normalized": "fight over fossil fuels leaves cop31 climate talks in deadlock",
+      "observed": 1795264196.4370358
+    },
+    "4e47e0ed6243eff6bbc8f276": {
+      "normalized": "zelensky says crimean bridge strikes fair response as he meets uk s streeting",
+      "observed": 1795264196.4370358
+    },
+    "197db005501c0e3cba7d8f2c": {
+      "normalized": "china commits to low carbon electrification and help for others to improve",
+      "observed": 1795264196.4370358
+    },
+    "aecd0ba08d68187cbb0f146d": {
+      "normalized": "did democrats fail florida angie nixon on missed opportunity in midterms",
+      "observed": 1795264196.4370358
+    },
+    "43ea44ee632a89e39ed2a281": {
+      "normalized": "haitians excited but uneasy as el salvador troops fight gangs",
+      "observed": 1795264196.4370358
+    },
+    "e21ca3cfb574fe5c9b1bdd66": {
+      "normalized": "new orleans catholic clergy abuse survivors begin receiving payments from 305m bankruptcy settlement",
+      "observed": 1795264196.4370358
+    },
+    "f0d27530739919bf09f2ddb8": {
+      "normalized": "black friday deals for liquid brazilian butt lifts criticised over safety fears",
+      "observed": 1795264196.4370358
+    },
+    "3c53fdba87c2e714b2269be8": {
+      "normalized": "rejoining eu on the table as uk makes deals on trade and young people",
+      "observed": 1795264196.4370358
+    },
+    "091356374eddf147422cc5fb": {
+      "normalized": "race to lead senate democrats the latest battlefield in party s tussle over israel",
+      "observed": 1795264196.4370358
+    },
+    "9b5cf6c244559ccca51721fe": {
+      "normalized": "music was our teacher the sound system pioneers reviving the scene in manchester and beyond",
+      "observed": 1795264196.4370358
+    },
+    "6450dc3ba5964d8a102550b3": {
+      "normalized": "reform uk considers pact with restore britain to overcome stalling performance in polls",
+      "observed": 1795264196.4370358
     }
   },
   "pending": []
