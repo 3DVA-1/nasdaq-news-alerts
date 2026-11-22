@@ -27,70 +27,6 @@
     }
   },
   "seen": {
-    "50f3809c28ba38697ae69dd7": {
-      "normalized": "pope leo rides in helicopter cockpit during peru trip",
-      "observed": 1794774791.7265818
-    },
-    "961c1d4f242d601a93da015d": {
-      "normalized": "thousands of us flights still cancelled or delayed two days after grounding of planes nationwide",
-      "observed": 1794774791.7265818
-    },
-    "bda8a7f2c5af3df3e106353f": {
-      "normalized": "ronaldinho makes comeback in ravenna win",
-      "observed": 1794774791.7265818
-    },
-    "5ab2fc94453fb9041a7e128d": {
-      "normalized": "zelensky urges us and musk to lift starlink restrictions and be on right side of history",
-      "observed": 1794774791.7265818
-    },
-    "e43de58aab2ed9910036f15d": {
-      "normalized": "bessent calls for dramatic shakeup at nvidia urges outside ceo",
-      "observed": 1794774791.7265818
-    },
-    "2300044f32e3b721ec855d33": {
-      "normalized": "lutnick faces questions over nvidia spy scandal his sons firm has ties to the chipmaker",
-      "observed": 1794774791.7265818
-    },
-    "1503e20ba615c1dbe43a1a02": {
-      "normalized": "iran launches drone attacks against us military base in bahrain",
-      "observed": 1794774791.7265818
-    },
-    "56fbfb78519b7277e201b53f": {
-      "normalized": "hundreds of thousands of czechs protest in prague over media freedom",
-      "observed": 1794774791.7265818
-    },
-    "af7ebddbcefb25f13ef09dd3": {
-      "normalized": "estonia to close all border crossings with russia after attack on drone maker",
-      "observed": 1794774791.7265818
-    },
-    "647d57603ce1d3c2f54d0781": {
-      "normalized": "labour rebellion over rosebank oilfield expected to top 100 mps",
-      "observed": 1794774791.7265818
-    },
-    "11f39ebb2f4ed849d15d2bab": {
-      "normalized": "chris van hollen says he has path to win senate leader over chuck schumer",
-      "observed": 1794774791.7265818
-    },
-    "3e39168645de3395218b8bea": {
-      "normalized": "senator elect scott colom vows to ensure trump follows through on his promises",
-      "observed": 1794774791.7265818
-    },
-    "f9241b9a5892f23c3ae08658": {
-      "normalized": "trident nuclear submarine concludes record underwater deployment",
-      "observed": 1794774791.7265818
-    },
-    "94927c6917d6d9585931fb38": {
-      "normalized": "texas puts to death man who beheaded three children hours after oklahoma execution",
-      "observed": 1794774791.7265818
-    },
-    "62f1ffe40039d77eb3db4029": {
-      "normalized": "pull back the curtain on treatment of sexual assault victims in court says uk government adviser",
-      "observed": 1794774791.7265818
-    },
-    "55c869b594b8e493b6536179": {
-      "normalized": "lsu star milaysia fulwiley arrested after allegedly striking police officer with car",
-      "observed": 1794774791.7265818
-    },
     "cf485a9b18d9eb2303753807": {
       "normalized": "uk will have voice but no vote on eu food rules in brexit reset",
       "observed": 1794788379.824154
@@ -1706,6 +1642,54 @@
     "161fc571db6a1953d77e5a5c": {
       "normalized": "netanyahu rival condemns settler arson attacks on palestinian villages in west bank",
       "observed": 1795361861.7199028
+    },
+    "9c224db926c42383e0de7b4d": {
+      "normalized": "what s next after no deal at cop31 climate talks",
+      "observed": 1795383688.9332356
+    },
+    "cbf4568deb74f77005f2038f": {
+      "normalized": "democrats win largest house majority since 1992 after flipping north carolina seat",
+      "observed": 1795383688.9332356
+    },
+    "5ee19a3d6458be4fe0153585": {
+      "normalized": "explosion on russian ship at libya port caused by suspected drone attack officials say",
+      "observed": 1795383688.9332356
+    },
+    "ca8e45f2117af5744e76916c": {
+      "normalized": "miley cyrus marries maxx morando in california ceremony",
+      "observed": 1795383688.9332356
+    },
+    "b9ec3be7b14fc993ee9ac462": {
+      "normalized": "employees at eric trump backed robot startup lose health benefits as company s cash crunch deepens",
+      "observed": 1795383688.9332356
+    },
+    "fa7eaec576dc5fc92296e244": {
+      "normalized": "nhs savings drive leaves hospitals in england facing unpalatable cuts",
+      "observed": 1795383688.9332356
+    },
+    "58c7a17372f96852e0f3e57f": {
+      "normalized": "russian ship hit in benghazi by suspected ukrainian drone attack say libyan officials",
+      "observed": 1795383688.9332356
+    },
+    "19bca39aa6bf0faa11ab1c76": {
+      "normalized": "datacentre bosses met australian state premiers and ministers almost 120 times in three years analysis finds",
+      "observed": 1795383688.9332356
+    },
+    "128254dff77c9fedb863582f": {
+      "normalized": "democrats capture at least 258 house seats in largest sweep since 1992",
+      "observed": 1795383688.9332356
+    },
+    "a63e453d8f6a76cd76681eb8": {
+      "normalized": "jensen huang s reported affair was most expensive sex since helen of troy us senator says",
+      "observed": 1795383688.9332356
+    },
+    "3d813f757467d5536517fac5": {
+      "normalized": "us intelligence chief says he trusts trump s description of putin as my friend",
+      "observed": 1795383688.9332356
+    },
+    "e899de97670d91ea93f2616d": {
+      "normalized": "australian politics live labor to extend pbs medicine freeze to 2030 bowen failed on cop hume says",
+      "observed": 1795383688.9332356
     }
   },
   "pending": []
