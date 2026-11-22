@@ -27,42 +27,6 @@
     }
   },
   "seen": {
-    "c74d663654e04a3279fa8b7e": {
-      "normalized": "beauty advent calendars can cost hundreds but are they value for money",
-      "observed": 1794704313.4936028
-    },
-    "5c6e799fae21a0b8f0ba3207": {
-      "normalized": "can you believe it spacex catches part of its starship rocket on return to earth",
-      "observed": 1794704313.4936028
-    },
-    "e1883ced22e82a01303b9d2e": {
-      "normalized": "judo champion shakes up french presidential race with surprise candidacy",
-      "observed": 1794704313.4936028
-    },
-    "8533dbe4fd52ebcf8153c14d": {
-      "normalized": "my mother told me i would die if i sought treatment for ebola i am proof you can survive",
-      "observed": 1794704313.4936028
-    },
-    "6b05861ea47c991062b8b12a": {
-      "normalized": "root cause of nationwide ground stop is unknown faa says",
-      "observed": 1794704313.4936028
-    },
-    "cbbc7444b7f106f6d8cb7aa3": {
-      "normalized": "spacex catches upper stage of starship rocket in historic first",
-      "observed": 1794704313.4936028
-    },
-    "25f524019998efd7eab93874": {
-      "normalized": "spacex s starship returns to launch pad from orbit in victory for company",
-      "observed": 1794704313.4936028
-    },
-    "d5d0dfffec97c9c760938cd1": {
-      "normalized": "david jones future looks grim is myer next",
-      "observed": 1794704313.4936028
-    },
-    "035f5428468c6beb3fae2efc": {
-      "normalized": "uk government to consider changing age of consent after allegations against russell brand",
-      "observed": 1794704313.4936028
-    },
     "7453478a6e2fb2d3d0be6ce9": {
       "normalized": "copper wire upgrade behind us flight suspension transport secretary says",
       "observed": 1794728823.6195173
@@ -1718,6 +1682,42 @@
     "ff3cdc2b90eaca0aafee3588": {
       "normalized": "man found dead on flinders island linked to shooting of police officer tasmanian authorities say",
       "observed": 1795306581.6178184
+    },
+    "15adda032ce10c6b63601ffd": {
+      "normalized": "dozens missing after fire at indonesian factory",
+      "observed": 1795332133.9327059
+    },
+    "d2484740109813d682204957": {
+      "normalized": "new draft deal aims to avert collapse of talks at climate summit",
+      "observed": 1795332133.9327059
+    },
+    "7328a233644fba590616aedf": {
+      "normalized": "quantum computing s first real world payoff may come in energy not drug discovery",
+      "observed": 1795332133.9327059
+    },
+    "971830e8521cd72562b887ef": {
+      "normalized": "south korea education minister resigns after ai cheating scandal engulfs university exams",
+      "observed": 1795332133.9327059
+    },
+    "7cf5da67d90a7ac9d325da0e": {
+      "normalized": "police say man whose body lay undiscovered in sydney bushland for 12 days was killed in suspected hit and run",
+      "observed": 1795332133.9327059
+    },
+    "ed5dcd312d62aeeb9d03e4a1": {
+      "normalized": "europe is entering a supercycle of national elections their outcomes could shake the eu s foundations",
+      "observed": 1795332133.9327059
+    },
+    "9e4cdb198537cae17dd93524": {
+      "normalized": "serious error of judgment outrage over military ai event at berlin arts complex",
+      "observed": 1795332133.9327059
+    },
+    "cf00125cd1de049f4dbd6577": {
+      "normalized": "labour mps sign up for leadership course to counter rightwing populism",
+      "observed": 1795332133.9327059
+    },
+    "8fd19ee0ce9b3129a7e1594c": {
+      "normalized": "fire at confectionary factory in indonesia leaves at least three dead and dozens missing",
+      "observed": 1795332133.9327059
     }
   },
   "pending": []
