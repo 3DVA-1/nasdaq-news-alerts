@@ -27,58 +27,6 @@
     }
   },
   "seen": {
-    "dede4e4294256f1aac85dcf6": {
-      "normalized": "break in and rising costs could kill my business",
-      "observed": 1794813100.999335
-    },
-    "2f99b2f4bb866036ae2f9a4a": {
-      "normalized": "thrift shop ask donors to nominate a charity",
-      "observed": 1794813100.999335
-    },
-    "96c26f96b2d87231230acfb8": {
-      "normalized": "watch new york teen reunites with cat missing after building collapse",
-      "observed": 1794813100.999335
-    },
-    "4f9f8869dc4f2b23dbafcd22": {
-      "normalized": "wife of assassinated ex haitian leader registers for presidential election",
-      "observed": 1794813100.999335
-    },
-    "54ae24ff43212e5c289bac2c": {
-      "normalized": "canada could work with chinese automakers if us trade talks fail says carney",
-      "observed": 1794813100.999335
-    },
-    "8ed3e09dd8c694e1c5587ebe": {
-      "normalized": "will spain s snap election in november bring a far right party into government",
-      "observed": 1794813100.999335
-    },
-    "834e2210459152eeed3b2760": {
-      "normalized": "ministers accused of gambling with safety for not knowing cost of nhs maternity unit repairs",
-      "observed": 1794813100.999335
-    },
-    "bf27c71de5d26d298e6f9bd2": {
-      "normalized": "mp helen haines s first words since leaving hospital after alleged attack led to double amputation",
-      "observed": 1794813100.999335
-    },
-    "9aa0aca96d0c4971893844fe": {
-      "normalized": "special needs overhaul in england could bring in new avenues for extra support",
-      "observed": 1794813100.999335
-    },
-    "7c4fcf250f7a415f9b5867cb": {
-      "normalized": "home office accused of trying to cancel online talk by andreas malm",
-      "observed": 1794813100.999335
-    },
-    "64b428bbeec9d0f427eec30b": {
-      "normalized": "weakening uk electric vehicle targets would hurt car industry ministers told",
-      "observed": 1794813100.999335
-    },
-    "aaed01fc50a2d29c1fa66949": {
-      "normalized": "uk exposed to polycrisis of threats amid government complacency",
-      "observed": 1794813100.999335
-    },
-    "7cd179bdcb4d8d56406669e1": {
-      "normalized": "monday briefing the many stages of the uk eu relationship and what s next",
-      "observed": 1794813100.999335
-    },
     "b29070e03de667b83fa15b45": {
       "normalized": "warsh opening remarks",
       "observed": 1794849806.843232
@@ -1686,6 +1634,94 @@
     "a2098c9ede0ff0148c28f557": {
       "normalized": "australian politics live pm s staff numbers exceed crossbench s allocation combined minns ends presser after heckling",
       "observed": 1795401144.5006406
+    },
+    "5c457a8a61a888c5d726f482": {
+      "normalized": "who is taking part in france s recent street protests",
+      "observed": 1795432218.0329785
+    },
+    "0f4188393592f5dec8485cf6": {
+      "normalized": "pip assessments need fundamental overhaul report to say",
+      "observed": 1795432218.0329785
+    },
+    "6deeb141b0fc2109fe9ad343": {
+      "normalized": "catering giant to switch main share listing to us in further blow to uk",
+      "observed": 1795432218.0329785
+    },
+    "6dac825e30f4747149bf6cf5": {
+      "normalized": "poundland is facing collapse what s gone wrong",
+      "observed": 1795432218.0329785
+    },
+    "2f84605a7cc32bbe31f1748e": {
+      "normalized": "south east water reports loss after supply issues",
+      "observed": 1795432218.0329785
+    },
+    "3f91c1a39f91462b9d3e151e": {
+      "normalized": "capita shares plunge and boss steps down as civil service pensions saga drags on",
+      "observed": 1795432218.0329785
+    },
+    "9951ccda06e302db19b7b983": {
+      "normalized": "russian warship hit by ukrainian drones in libya zelensky says",
+      "observed": 1795432218.0329785
+    },
+    "d2aaaaab38665a4ccc3215e3": {
+      "normalized": "burnham to tell mps landmark eu deal could make next decade much better",
+      "observed": 1795432218.0329785
+    },
+    "03deb2f2d68f339a2e256e0c": {
+      "normalized": "kenya and dr congo agree to restore ties after tensions over conflict",
+      "observed": 1795432218.0329785
+    },
+    "b3bec0f90415eeaed0216484": {
+      "normalized": "worst cop ever climate talks collapse after draft deal fails to include fossil fuels",
+      "observed": 1795432218.0329785
+    },
+    "e918ad658d875b779403c986": {
+      "normalized": "anthropic nvidia shares rise in premarket trading after major tech selloff",
+      "observed": 1795432218.0329785
+    },
+    "18954d61d098616785a3f1e5": {
+      "normalized": "constitutional law expert brands defence bill allowing secret security rules lazy and irresponsible",
+      "observed": 1795432218.0329785
+    },
+    "58a6c92b428569541ccae17a": {
+      "normalized": "up to 1 1m people eligible to join class action against jetstar over alleged failure to refund covid flights",
+      "observed": 1795432218.0329785
+    },
+    "6fb8d6d5706a5509fb496d81": {
+      "normalized": "gas prices in europe surge as forecast cold snap feeds supply shortage fears",
+      "observed": 1795432218.0329785
+    },
+    "30f9d2f84b0bb46e5c49cf76": {
+      "normalized": "fears for school crossing patrols as councils struggle to recruit lollipop people",
+      "observed": 1795432218.0329785
+    },
+    "00f603af958e48d699481883": {
+      "normalized": "capita boss exits and shares crash after civil service pensions failures",
+      "observed": 1795432218.0329785
+    },
+    "ad857a1f3f94b4fd6d10545b": {
+      "normalized": "natural england could be abolished as part of quango cull says louise haigh",
+      "observed": 1795432218.0329785
+    },
+    "d86c430f048673fb1fa579ed": {
+      "normalized": "from mocked to mainstream how spain s far right vox transformed its fortunes",
+      "observed": 1795432218.0329785
+    },
+    "ac123ac831ae22f3ec99d569": {
+      "normalized": "nhs caterer compass plans stock market switch in blow to london",
+      "observed": 1795432218.0329785
+    },
+    "5ce1b58f4c67b5b033543709": {
+      "normalized": "chamonix mayor plans tourist limits for alpine beauty spot",
+      "observed": 1795432218.0329785
+    },
+    "b126c50c4db46db42178c6f6": {
+      "normalized": "zelenskyy says ukraine responsible for sinking russian warship in libya europe live",
+      "observed": 1795432218.0329785
+    },
+    "6ef91bdbee23fb9c6a06f5d5": {
+      "normalized": "tories welcome louise haigh s hint government could adopt their plan to scrap natural england uk politics live",
+      "observed": 1795432218.0329785
     }
   },
   "pending": []
