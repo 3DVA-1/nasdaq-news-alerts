@@ -27,78 +27,6 @@
     }
   },
   "seen": {
-    "8c63d0b70a5893b49335e43e": {
-      "normalized": "nvidia dismisses bring jensen back campaign as trump backs effort to reinstate ex ceo",
-      "observed": 1794877303.8452764
-    },
-    "886f9259838a91a65ec1e109": {
-      "normalized": "complete system reset needed to get 440 000 young people into work says major review",
-      "observed": 1794877303.8452764
-    },
-    "a9f2bc2825afa7f8f4f7fa27": {
-      "normalized": "california sues openai over hugging face attack",
-      "observed": 1794877303.8452764
-    },
-    "317748230d4bd713ebefae26": {
-      "normalized": "we couldn t afford a house alone so we bought one with strangers",
-      "observed": 1794877303.8452764
-    },
-    "4593272473d411003efc1698": {
-      "normalized": "aged 16 24 and looking for work use our look up to find out which areas have the most jobs",
-      "observed": 1794877303.8452764
-    },
-    "d7f8f9fbd098d4a7b4fe22c2": {
-      "normalized": "customers report service outages at major us banks",
-      "observed": 1794877303.8452764
-    },
-    "34fe50a258454f0d36c845c2": {
-      "normalized": "jpmorgan chase says temporary software bug is affecting consumer banking",
-      "observed": 1794877303.8452764
-    },
-    "3eaa40b69f8564b7202f2d5d": {
-      "normalized": "aschenbrenner s situational awareness made ai bets again before october rout",
-      "observed": 1794877303.8452764
-    },
-    "f5f397307fca2eaca09327f9": {
-      "normalized": "jim cramer says nvidia s leadership shake up won t derail the ai trade",
-      "observed": 1794877303.8452764
-    },
-    "5d05054ba3086259e4099e91": {
-      "normalized": "alan milburn urges burnham to spend billions on new deal for young people",
-      "observed": 1794877303.8452764
-    },
-    "e7cd716c0ef39d45d36f5a41": {
-      "normalized": "mid year budget update will cut enough but not too much jim chalmers says",
-      "observed": 1794877303.8452764
-    },
-    "91eb23195184ca2f0c162a17": {
-      "normalized": "big wave surfers line up to ride raw power of the pacific during super el niño swells",
-      "observed": 1794877303.8452764
-    },
-    "a0a92a71465edf0e68d55f35": {
-      "normalized": "cause of death released for partner of gypsy rose blanchard",
-      "observed": 1794877303.8452764
-    },
-    "513447d01f801ddc2ac1b43b": {
-      "normalized": "police searching for three stolen melbourne cup trophies worth 1m each",
-      "observed": 1794877303.8452764
-    },
-    "7226c1137c564e160289f6d4": {
-      "normalized": "band of baby sea turtles released into ocean after historic california nesting",
-      "observed": 1794877303.8452764
-    },
-    "329aae7fa4ee6a8636841831": {
-      "normalized": "united airlines says widespread system outage resolved",
-      "observed": 1794877303.8452764
-    },
-    "2a4506e95e593f6e6a521f1e": {
-      "normalized": "proposed nsw laws to allow coalmine to increase production pose serious corruption risk",
-      "observed": 1794877303.8452764
-    },
-    "8e7119ee119fc7e300f66c2d": {
-      "normalized": "labor policy backflip will allow more backpackers to work in regional australia",
-      "observed": 1794877303.8452764
-    },
     "5513b2ed74d6cc87763b6339": {
       "normalized": "which areas have the most jobs for 16 24 year olds use our look up to find out",
       "observed": 1794906276.7665207
@@ -1702,6 +1630,66 @@
     "5313580f567106023d549d6a": {
       "normalized": "australian politics live labor to save more than we spend in budget update chalmers says rental affordability plummets to 14 year low",
       "observed": 1795474372.1776068
+    },
+    "a45e4df47247c5eb14f397f4": {
+      "normalized": "trump faces backlash after saying he convinced nvidia to reinstate ceo jensen huang",
+      "observed": 1795503268.0574908
+    },
+    "aad0afdf03cd6c04e546866b": {
+      "normalized": "india s cockroach party leader says he was stopped from flying to uk",
+      "observed": 1795503268.0574908
+    },
+    "656f7ec38f90e3112b82985f": {
+      "normalized": "bangladesh s ex pm sheikh hasina says she plans to return on 16 december",
+      "observed": 1795503268.0574908
+    },
+    "4f5bd7a6702bd9367fc468de": {
+      "normalized": "ai adoption grows in asia but measuring the gains remains tricky",
+      "observed": 1795503268.0574908
+    },
+    "5dc1a8576a6158a4c3fee59f": {
+      "normalized": "jensen huang is too big to fire putting nvidia s governance in focus analysts",
+      "observed": 1795503268.0574908
+    },
+    "4c4e8fe2f3478f7fcddd3a1c": {
+      "normalized": "social media companies could be fined 5 of global revenue after labor and greens join forces on online safety laws",
+      "observed": 1795503268.0574908
+    },
+    "7b4170b0165e27dd9eeb79b0": {
+      "normalized": "south korea tells island residents to take shelter after russian military aircraft approach",
+      "observed": 1795503268.0574908
+    },
+    "42166f83de92f7ca982d0177": {
+      "normalized": "ebikes screens and failing manners pose challenge for dutch cycling culture",
+      "observed": 1795503268.0574908
+    },
+    "2a06750f144e7615071a42a0": {
+      "normalized": "channel 4 hit as unilever switches from tv to influencer marketing",
+      "observed": 1795503268.0574908
+    },
+    "c269b0f20ed513a064ba7abc": {
+      "normalized": "beau lamarre condon could have told crown do your worst and not given evidence defence says",
+      "observed": 1795503268.0574908
+    },
+    "9288b9248bf376810231ee11": {
+      "normalized": "malaysia to send thousands of migrants back to myanmar as pm acknowledges junta s atrocities",
+      "observed": 1795503268.0574908
+    },
+    "9947a5de62c2fa8eb3321692": {
+      "normalized": "kate bush and grace jones urge australian government not to legalise ai theft",
+      "observed": 1795503268.0574908
+    },
+    "742556095811102ebdd30aae": {
+      "normalized": "meta launches muse in uk the ai agent that can do your christmas shopping",
+      "observed": 1795503268.0574908
+    },
+    "fc91d793bc0ae6c1a0ef7dd1": {
+      "normalized": "sports whistleblowers protected under proposed laws amid australian cricket ball tampering saga",
+      "observed": 1795503268.0574908
+    },
+    "78337707f4a7268664d8667b": {
+      "normalized": "australian politics live private tycoons shouldn t have their own ai arsenals andrew hastie says",
+      "observed": 1795503268.0574908
     }
   },
   "pending": []
