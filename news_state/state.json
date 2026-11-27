@@ -27,94 +27,6 @@
     }
   },
   "seen": {
-    "b375ed3d771e76d4f455be4c": {
-      "normalized": "anthropic becomes one of world s most valuable public companies in stock market debut",
-      "observed": 1795131992.9430132
-    },
-    "82a061c551f36aa35107758e": {
-      "normalized": "europe ready for talks with russia on ending war in ukraine leaders say",
-      "observed": 1795131992.9430132
-    },
-    "7abc665ad6495572ab0bc0bd": {
-      "normalized": "judge finds thomas markle mentally fit to stand trial on child abuse charges",
-      "observed": 1795131992.9430132
-    },
-    "22901fe697890ca1926ec406": {
-      "normalized": "from premature baby to social media star famed hippo fiona dies",
-      "observed": 1795131992.9430132
-    },
-    "311ea7393de1048f0adfc3d9": {
-      "normalized": "california probing whether china improperly acquired nvidia technology",
-      "observed": 1795131992.9430132
-    },
-    "57e5cf09469a6ee0e3a715b5": {
-      "normalized": "trump posthumously pardons us baseball legend pete rose",
-      "observed": 1795131992.9430132
-    },
-    "6d3de3e3e196e9a2f8a15779": {
-      "normalized": "cumin laced fizzy sodas are giving cola giants a tough fight in india",
-      "observed": 1795131992.9430132
-    },
-    "af5433f7f1153b91a6b16134": {
-      "normalized": "fiona the hippo dies after swallowing a hat at cincinnati zoo",
-      "observed": 1795131992.9430132
-    },
-    "8493838617312146cae2edd3": {
-      "normalized": "amd dives on short seller report of alleged china exposure",
-      "observed": 1795131992.9430132
-    },
-    "0dc6acc2cd90459fc30f9cd2": {
-      "normalized": "intuit to sell mailchimp to bending spoons for 3 68 billion",
-      "observed": 1795131992.9430132
-    },
-    "ea604d8c2669ed88e22ef996": {
-      "normalized": "commerce approved sales of more than 879 000 ai chips to chinese companies rep mast says",
-      "observed": 1795131992.9430132
-    },
-    "10664030d8b1263e874f2721": {
-      "normalized": "anthropic closes first day of public trading at 1 3tn valuation after largest ever ipo",
-      "observed": 1795131992.9430132
-    },
-    "fe6462690f8133bfa883fa5f": {
-      "normalized": "guardian australia takes home two walkley awards for excellence in journalism",
-      "observed": 1795131992.9430132
-    },
-    "05d82725448db1ad8e4c771e": {
-      "normalized": "protesters rally against anthropic in new york and san francisco after 2tn stock market debut",
-      "observed": 1795131992.9430132
-    },
-    "a4ba48f308f36de483f8c628": {
-      "normalized": "appeals court rejects democrat lamonica mciver s bid to toss charges over ice protest",
-      "observed": 1795131992.9430132
-    },
-    "ea6e5f8858fde984c952b4c9": {
-      "normalized": "thomas markle meghan s father is competent to face child sex abuse images case",
-      "observed": 1795131992.9430132
-    },
-    "c88d3e13d0a01bda81a5ad9e": {
-      "normalized": "fiona the hippo dies after ingesting knitted hat at cincinnati zoo",
-      "observed": 1795131992.9430132
-    },
-    "2c48ad8c83a4e1924635318f": {
-      "normalized": "mark speakman resigns and says liberals face existential threat as nsw exodus continues",
-      "observed": 1795131992.9430132
-    },
-    "62215190078b1d6d11a1699f": {
-      "normalized": "california s top lawyer subpoenas nvidia over jensen huang s affair with suspected chinese spy live",
-      "observed": 1795131992.9430132
-    },
-    "cb8ee491adf3b1832f295ddf": {
-      "normalized": "howard era minister sharman stone dies via voluntary assisted dying aged 75",
-      "observed": 1795131992.9430132
-    },
-    "acf007edac5f8c123e5ea08f": {
-      "normalized": "florida to carry out record breaking 20th execution of the year",
-      "observed": 1795131992.9430132
-    },
-    "fb53fada349ca6de0339f733": {
-      "normalized": "an elevator a brick wall and a bathroom scientists use gravity to send practically unblockable message",
-      "observed": 1795131992.9430132
-    },
     "ce1467680eaaf5677583d4d2": {
       "normalized": "mouldy infested housing for vulnerable people sold as ethical investments abroad",
       "observed": 1795158002.6276257
@@ -1574,6 +1486,38 @@
     "1661607c6d0934d01af39e3c": {
       "normalized": "chance of snow forecast for northern england and scotland in next few days",
       "observed": 1795734910.3695385
+    },
+    "c0f7cdcec87e4758c2019624": {
+      "normalized": "new zealand s ruling coalition falls short of parliamentary majority by one seat",
+      "observed": 1795756701.5077887
+    },
+    "70ae5a941d8cca44540daf3c": {
+      "normalized": "major thanksgiving storm brings flooding flight delays across us",
+      "observed": 1795756701.5077887
+    },
+    "0fc1bc6fa435a57667a97105": {
+      "normalized": "spacex shares jump on alternative trading platform after musk says he will expand share donations",
+      "observed": 1795756701.5077887
+    },
+    "a497e254373156c8543c69c3": {
+      "normalized": "new zealand election final results show ruling coalition needs minor party to govern",
+      "observed": 1795756701.5077887
+    },
+    "59adb8a0c3779fb1b9695086": {
+      "normalized": "heatwaves floods fires and rain weekend of weather extremes expected across australia",
+      "observed": 1795756701.5077887
+    },
+    "f2d1948e3591163d63480a22": {
+      "normalized": "former raaf pilot convicted of murder after staging wife s death as lawnmower accident",
+      "observed": 1795756701.5077887
+    },
+    "090859121b2f2e4e455d64b6": {
+      "normalized": "race hate exploded in this spanish town last year now its residents are bracing for more",
+      "observed": 1795756701.5077887
+    },
+    "8c39ab55add6e7b3e94a2901": {
+      "normalized": "alan jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+      "observed": 1795756701.5077887
     }
   },
   "pending": []
