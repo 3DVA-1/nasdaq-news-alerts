@@ -27,14 +27,6 @@
     }
   },
   "seen": {
-    "98d6607739afd6f3945f0ab3": {
-      "normalized": "they were fined 811m for conning detained migrants but the scams didn t stop",
-      "observed": 1795233243.1339164
-    },
-    "9d5e0201724f0a6d57247233": {
-      "normalized": "man accused of sparking deadly los angeles wildfire found guilty",
-      "observed": 1795233243.1339164
-    },
     "2bea7a9903113a0f34ddb0e8": {
       "normalized": "sessions offer advice on rising energy costs",
       "observed": 1795264196.4370358
@@ -1374,6 +1366,34 @@
     "d9ecad369308cad5d489f083": {
       "normalized": "schools in england must set aside time for pupils to read for pleasure",
       "observed": 1795822892.6730328
+    },
+    "76aa43ff20449cf598f5ffaf": {
+      "normalized": "butcher blames costs for closure after 127 years",
+      "observed": 1795851244.1431932
+    },
+    "bf6f86fca20c14da65021f8a": {
+      "normalized": "la succession france s wealthiest family said to be battling over who will take over lvmh",
+      "observed": 1795851244.1431932
+    },
+    "7fe04b65ab1b7a64d87a21f3": {
+      "normalized": "yuri and i used to play football together then i spotted his name among russia s war dead",
+      "observed": 1795851244.1431932
+    },
+    "5ac4d463c65234a94e4bda07": {
+      "normalized": "palestinian tells of devastating struggle after being made redundant by eu in gaza",
+      "observed": 1795851244.1431932
+    },
+    "ae288ac632f6fbaf03c11dde": {
+      "normalized": "stunted sprouts heatwaves and drought take toll on festive vegetable",
+      "observed": 1795851244.1431932
+    },
+    "654e61033b8d694203918b90": {
+      "normalized": "mental health patients refusing nhs treatment over shared therapy notes",
+      "observed": 1795851244.1431932
+    },
+    "fcc4825901358879a6c943a1": {
+      "normalized": "victorian election 2026 live updates polls point to coalition win over labor in state election results latest news",
+      "observed": 1795851244.1431932
     }
   },
   "pending": []
